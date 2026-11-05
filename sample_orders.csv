@@ -1,0 +1,3142 @@
+date,product,channel,city,qty,unit_price,discount,revenue
+2026-05-01,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-05-01,Dupatta,Website,Kolkata,3,449,0.1,1212.3
+2026-05-01,Dupatta,Instagram,Lucknow,1,449,0.2,359.2
+2026-05-01,Kurti,Website,Pune,3,899,0.1,2427.3
+2026-05-01,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-05-01,Potli bag,WhatsApp,Kolkata,1,599,0.2,479.2
+2026-05-01,Kurti,Offline,Lucknow,3,899,0.1,2427.3
+2026-05-01,Dupatta,Instagram,Kolkata,3,449,0.1,1212.3
+2026-05-01,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-05-01,Jhumka,Offline,Kolkata,3,299,0.2,717.6
+2026-05-01,Dupatta,WhatsApp,Lucknow,1,449,0.2,359.2
+2026-05-01,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-05-01,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-05-01,Kurti,Instagram,Kolkata,3,899,0.1,2427.3
+2026-05-01,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-05-01,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-05-01,Potli bag,Website,Delhi,1,599,0.2,479.2
+2026-05-02,Saree,WhatsApp,Lucknow,3,2499,0.0,7497.0
+2026-05-02,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-05-02,Jhumka,Website,Pune,2,299,0.2,478.4
+2026-05-02,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-05-02,Jhumka,WhatsApp,Delhi,1,299,0.1,269.1
+2026-05-02,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-05-02,Kurti,Instagram,Delhi,1,899,0.2,719.2
+2026-05-02,Potli bag,WhatsApp,Pune,1,599,0.0,599.0
+2026-05-02,Dupatta,WhatsApp,Pune,3,449,0.2,1077.6
+2026-05-02,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-05-02,Kurti,WhatsApp,Kolkata,1,899,0.1,809.1
+2026-05-02,Jhumka,Instagram,Pune,1,299,0.2,239.2
+2026-05-02,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-02,Saree,Instagram,Pune,1,2499,0.1,2249.1
+2026-05-02,Potli bag,Offline,Delhi,1,599,0.0,599.0
+2026-05-02,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-05-02,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-05-02,Jhumka,Instagram,Jaipur,2,299,0.1,538.2
+2026-05-02,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-02,Jhumka,Instagram,Pune,1,299,0.2,239.2
+2026-05-03,Dupatta,WhatsApp,Lucknow,3,449,0.1,1212.3
+2026-05-03,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-05-03,Jhumka,WhatsApp,Delhi,2,299,0.1,538.2
+2026-05-03,Kurti,Instagram,Delhi,1,899,0.1,809.1
+2026-05-03,Kurti,Offline,Jaipur,2,899,0.1,1618.2
+2026-05-03,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-05-03,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-05-03,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-05-03,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-05-03,Dupatta,Instagram,Jaipur,2,449,0.2,718.4
+2026-05-03,Dupatta,Instagram,Lucknow,2,449,0.2,718.4
+2026-05-03,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-05-03,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-05-03,Kurti,Website,Pune,1,899,0.0,899.0
+2026-05-03,Potli bag,Offline,Delhi,3,599,0.0,1797.0
+2026-05-03,Potli bag,WhatsApp,Delhi,1,599,0.0,599.0
+2026-05-03,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-05-03,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-05-03,Jhumka,Offline,Jaipur,2,299,0.2,478.4
+2026-05-03,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-05-03,Potli bag,Website,Bengaluru,3,599,0.0,1797.0
+2026-05-03,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-05-03,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-05-04,Jhumka,Offline,Jaipur,3,299,0.0,897.0
+2026-05-04,Potli bag,Website,Delhi,1,599,0.0,599.0
+2026-05-04,Potli bag,WhatsApp,Jaipur,1,599,0.1,539.1
+2026-05-04,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-05-04,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-05-04,Dupatta,Instagram,Delhi,1,449,0.2,359.2
+2026-05-04,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-05-04,Saree,WhatsApp,Kolkata,2,2499,0.2,3998.4
+2026-05-04,Dupatta,Website,Kolkata,1,449,0.2,359.2
+2026-05-04,Kurti,Instagram,Delhi,3,899,0.2,2157.6
+2026-05-04,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-04,Kurti,Offline,Pune,2,899,0.0,1798.0
+2026-05-05,Jhumka,Offline,Lucknow,1,299,0.1,269.1
+2026-05-05,Kurti,Website,Bengaluru,2,899,0.0,1798.0
+2026-05-05,Dupatta,Instagram,Kolkata,2,449,0.1,808.2
+2026-05-05,Jhumka,Website,Kolkata,1,299,0.0,299.0
+2026-05-05,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-05-05,Potli bag,WhatsApp,Pune,3,599,0.1,1617.3
+2026-05-05,Kurti,WhatsApp,Lucknow,2,899,0.2,1438.4
+2026-05-05,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-05-05,Saree,Website,Kolkata,1,2499,0.2,1999.2
+2026-05-05,Potli bag,WhatsApp,Delhi,1,599,0.2,479.2
+2026-05-05,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-05-05,Potli bag,Instagram,Bengaluru,1,599,0.2,479.2
+2026-05-05,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-05-05,Dupatta,Instagram,Delhi,1,449,0.1,404.1
+2026-05-05,Potli bag,WhatsApp,Pune,1,599,0.0,599.0
+2026-05-06,Potli bag,Website,Bengaluru,2,599,0.1,1078.2
+2026-05-06,Dupatta,Instagram,Jaipur,1,449,0.0,449.0
+2026-05-06,Saree,WhatsApp,Pune,1,2499,0.1,2249.1
+2026-05-06,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-05-06,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-05-06,Dupatta,Website,Delhi,3,449,0.1,1212.3
+2026-05-06,Potli bag,Website,Bengaluru,3,599,0.0,1797.0
+2026-05-06,Dupatta,Website,Pune,3,449,0.1,1212.3
+2026-05-06,Jhumka,WhatsApp,Pune,1,299,0.2,239.2
+2026-05-06,Potli bag,Instagram,Lucknow,3,599,0.2,1437.6
+2026-05-06,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-05-06,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-05-06,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-05-07,Saree,Offline,Bengaluru,1,2499,0.1,2249.1
+2026-05-07,Potli bag,WhatsApp,Jaipur,2,599,0.1,1078.2
+2026-05-07,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-05-07,Dupatta,Instagram,Pune,2,449,0.1,808.2
+2026-05-07,Kurti,WhatsApp,Jaipur,3,899,0.0,2697.0
+2026-05-07,Dupatta,WhatsApp,Delhi,3,449,0.2,1077.6
+2026-05-07,Jhumka,Instagram,Kolkata,1,299,0.1,269.1
+2026-05-07,Dupatta,Offline,Delhi,3,449,0.1,1212.3
+2026-05-07,Kurti,Website,Pune,3,899,0.0,2697.0
+2026-05-07,Potli bag,Instagram,Bengaluru,3,599,0.2,1437.6
+2026-05-07,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-05-07,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-05-07,Dupatta,Website,Pune,2,449,0.1,808.2
+2026-05-08,Saree,Instagram,Bengaluru,2,2499,0.0,4998.0
+2026-05-08,Jhumka,WhatsApp,Delhi,1,299,0.1,269.1
+2026-05-08,Jhumka,WhatsApp,Kolkata,2,299,0.2,478.4
+2026-05-08,Jhumka,Website,Bengaluru,2,299,0.1,538.2
+2026-05-08,Jhumka,Instagram,Lucknow,1,299,0.1,269.1
+2026-05-08,Saree,Offline,Delhi,1,2499,0.2,1999.2
+2026-05-08,Dupatta,Website,Lucknow,2,449,0.1,808.2
+2026-05-08,Kurti,Website,Bengaluru,2,899,0.2,1438.4
+2026-05-08,Jhumka,Offline,Lucknow,2,299,0.0,598.0
+2026-05-08,Kurti,Instagram,Bengaluru,3,899,0.2,2157.6
+2026-05-08,Saree,Instagram,Pune,3,2499,0.2,5997.6
+2026-05-08,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-05-08,Kurti,Instagram,Kolkata,2,899,0.1,1618.2
+2026-05-08,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-05-08,Dupatta,Instagram,Kolkata,3,449,0.1,1212.3
+2026-05-08,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-05-08,Jhumka,Offline,Delhi,3,299,0.0,897.0
+2026-05-08,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-05-09,Saree,Website,Delhi,1,2499,0.0,2499.0
+2026-05-09,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-05-09,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-05-09,Potli bag,Instagram,Kolkata,2,599,0.2,958.4
+2026-05-09,Saree,Website,Delhi,3,2499,0.0,7497.0
+2026-05-09,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-05-09,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-05-09,Kurti,Website,Pune,1,899,0.1,809.1
+2026-05-09,Dupatta,Instagram,Bengaluru,2,449,0.0,898.0
+2026-05-09,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-05-09,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-05-09,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-05-09,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-05-09,Saree,Offline,Jaipur,1,2499,0.1,2249.1
+2026-05-09,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-05-09,Potli bag,Offline,Delhi,2,599,0.0,1198.0
+2026-05-09,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-05-09,Saree,Instagram,Bengaluru,2,2499,0.0,4998.0
+2026-05-09,Dupatta,WhatsApp,Lucknow,2,449,0.1,808.2
+2026-05-09,Kurti,Instagram,Delhi,1,899,0.2,719.2
+2026-05-09,Kurti,WhatsApp,Lucknow,1,899,0.1,809.1
+2026-05-09,Dupatta,WhatsApp,Lucknow,2,449,0.2,718.4
+2026-05-09,Potli bag,Instagram,Pune,1,599,0.2,479.2
+2026-05-09,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-05-10,Saree,WhatsApp,Kolkata,2,2499,0.0,4998.0
+2026-05-10,Dupatta,Website,Jaipur,2,449,0.1,808.2
+2026-05-10,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-05-10,Dupatta,Website,Pune,2,449,0.2,718.4
+2026-05-10,Dupatta,WhatsApp,Bengaluru,3,449,0.0,1347.0
+2026-05-10,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-05-10,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-10,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-05-10,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-05-10,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-05-10,Dupatta,Instagram,Bengaluru,3,449,0.1,1212.3
+2026-05-10,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-05-10,Dupatta,Offline,Bengaluru,2,449,0.0,898.0
+2026-05-10,Dupatta,WhatsApp,Jaipur,3,449,0.0,1347.0
+2026-05-11,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-05-11,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-05-11,Dupatta,WhatsApp,Bengaluru,3,449,0.2,1077.6
+2026-05-11,Saree,Instagram,Bengaluru,3,2499,0.2,5997.6
+2026-05-11,Dupatta,Instagram,Lucknow,2,449,0.2,718.4
+2026-05-11,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-05-11,Potli bag,Offline,Jaipur,1,599,0.0,599.0
+2026-05-11,Potli bag,Instagram,Jaipur,1,599,0.1,539.1
+2026-05-11,Kurti,WhatsApp,Pune,2,899,0.2,1438.4
+2026-05-11,Kurti,Website,Jaipur,1,899,0.0,899.0
+2026-05-11,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-05-11,Jhumka,Instagram,Delhi,3,299,0.1,807.3
+2026-05-11,Jhumka,Website,Lucknow,2,299,0.2,478.4
+2026-05-11,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-05-11,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-05-11,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-05-12,Kurti,WhatsApp,Bengaluru,2,899,0.2,1438.4
+2026-05-12,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-05-12,Saree,WhatsApp,Bengaluru,1,2499,0.1,2249.1
+2026-05-12,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-05-12,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-05-12,Jhumka,WhatsApp,Pune,3,299,0.2,717.6
+2026-05-12,Potli bag,Website,Bengaluru,3,599,0.1,1617.3
+2026-05-12,Saree,Website,Kolkata,3,2499,0.1,6747.3
+2026-05-12,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-05-12,Jhumka,Offline,Pune,2,299,0.2,478.4
+2026-05-12,Kurti,Website,Jaipur,3,899,0.0,2697.0
+2026-05-12,Potli bag,Instagram,Lucknow,3,599,0.1,1617.3
+2026-05-12,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-05-12,Potli bag,Offline,Lucknow,3,599,0.2,1437.6
+2026-05-13,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-05-13,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-05-13,Kurti,Instagram,Delhi,2,899,0.2,1438.4
+2026-05-13,Potli bag,Website,Kolkata,3,599,0.1,1617.3
+2026-05-13,Kurti,Website,Kolkata,3,899,0.1,2427.3
+2026-05-13,Saree,WhatsApp,Jaipur,1,2499,0.2,1999.2
+2026-05-13,Saree,WhatsApp,Delhi,3,2499,0.0,7497.0
+2026-05-13,Saree,WhatsApp,Delhi,3,2499,0.0,7497.0
+2026-05-13,Jhumka,Instagram,Kolkata,3,299,0.1,807.3
+2026-05-13,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-05-13,Potli bag,Instagram,Pune,1,599,0.1,539.1
+2026-05-13,Kurti,Instagram,Bengaluru,1,899,0.0,899.0
+2026-05-13,Jhumka,Website,Lucknow,1,299,0.1,269.1
+2026-05-14,Dupatta,Offline,Pune,1,449,0.0,449.0
+2026-05-14,Potli bag,Instagram,Pune,3,599,0.1,1617.3
+2026-05-14,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-14,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-05-14,Dupatta,WhatsApp,Lucknow,1,449,0.0,449.0
+2026-05-14,Potli bag,Offline,Lucknow,2,599,0.0,1198.0
+2026-05-14,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-05-14,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-05-14,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-05-14,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-05-14,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-05-14,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-05-15,Potli bag,Website,Kolkata,3,599,0.0,1797.0
+2026-05-15,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-05-15,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-05-15,Saree,WhatsApp,Pune,3,2499,0.1,6747.3
+2026-05-15,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-05-15,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-05-15,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-05-15,Kurti,Instagram,Delhi,1,899,0.2,719.2
+2026-05-15,Jhumka,Instagram,Kolkata,1,299,0.2,239.2
+2026-05-15,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-05-15,Kurti,Website,Delhi,1,899,0.0,899.0
+2026-05-15,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-05-15,Kurti,Website,Lucknow,1,899,0.0,899.0
+2026-05-16,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-05-16,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-05-16,Saree,WhatsApp,Delhi,3,2499,0.0,7497.0
+2026-05-16,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-05-16,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-05-16,Potli bag,Instagram,Delhi,1,599,0.2,479.2
+2026-05-16,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-05-16,Saree,Instagram,Bengaluru,2,2499,0.1,4498.2
+2026-05-16,Saree,Instagram,Pune,3,2499,0.0,7497.0
+2026-05-16,Potli bag,Instagram,Bengaluru,3,599,0.2,1437.6
+2026-05-16,Saree,WhatsApp,Lucknow,3,2499,0.0,7497.0
+2026-05-16,Potli bag,Website,Lucknow,3,599,0.0,1797.0
+2026-05-16,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-05-16,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-05-16,Potli bag,Instagram,Delhi,1,599,0.2,479.2
+2026-05-16,Saree,Website,Delhi,1,2499,0.1,2249.1
+2026-05-16,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-05-16,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-05-16,Jhumka,Instagram,Kolkata,1,299,0.1,269.1
+2026-05-16,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-05-16,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-05-16,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-05-16,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-05-17,Kurti,Website,Pune,1,899,0.0,899.0
+2026-05-17,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-05-17,Potli bag,WhatsApp,Jaipur,3,599,0.2,1437.6
+2026-05-17,Kurti,WhatsApp,Lucknow,2,899,0.0,1798.0
+2026-05-17,Dupatta,Website,Pune,3,449,0.1,1212.3
+2026-05-17,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-05-17,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-05-17,Dupatta,Website,Delhi,2,449,0.2,718.4
+2026-05-17,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-05-18,Jhumka,Offline,Bengaluru,1,299,0.2,239.2
+2026-05-18,Saree,Website,Lucknow,1,2499,0.0,2499.0
+2026-05-18,Jhumka,WhatsApp,Lucknow,3,299,0.1,807.3
+2026-05-18,Kurti,Website,Kolkata,3,899,0.1,2427.3
+2026-05-18,Potli bag,Offline,Delhi,2,599,0.0,1198.0
+2026-05-18,Jhumka,Instagram,Kolkata,3,299,0.2,717.6
+2026-05-18,Kurti,Instagram,Kolkata,1,899,0.0,899.0
+2026-05-18,Saree,Website,Lucknow,3,2499,0.2,5997.6
+2026-05-18,Potli bag,Instagram,Lucknow,3,599,0.1,1617.3
+2026-05-18,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-05-18,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-05-18,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-05-18,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-05-18,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-05-18,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-05-18,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-05-18,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-05-18,Kurti,Offline,Lucknow,1,899,0.0,899.0
+2026-05-18,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-05-18,Saree,Website,Jaipur,1,2499,0.0,2499.0
+2026-05-18,Saree,Offline,Bengaluru,3,2499,0.1,6747.3
+2026-05-18,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-05-18,Dupatta,WhatsApp,Jaipur,1,449,0.2,359.2
+2026-05-18,Dupatta,WhatsApp,Bengaluru,1,449,0.2,359.2
+2026-05-19,Kurti,Website,Delhi,1,899,0.0,899.0
+2026-05-19,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-05-19,Potli bag,Website,Lucknow,2,599,0.2,958.4
+2026-05-19,Kurti,Offline,Jaipur,3,899,0.0,2697.0
+2026-05-19,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-05-19,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-05-19,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-05-19,Potli bag,Website,Bengaluru,3,599,0.0,1797.0
+2026-05-19,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-05-19,Saree,Offline,Delhi,1,2499,0.0,2499.0
+2026-05-19,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-05-19,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-05-19,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-05-19,Kurti,Offline,Lucknow,3,899,0.0,2697.0
+2026-05-20,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-05-20,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-05-20,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-05-20,Dupatta,Offline,Jaipur,2,449,0.1,808.2
+2026-05-20,Kurti,WhatsApp,Kolkata,3,899,0.2,2157.6
+2026-05-20,Potli bag,Instagram,Bengaluru,1,599,0.2,479.2
+2026-05-20,Dupatta,Website,Lucknow,1,449,0.2,359.2
+2026-05-20,Jhumka,Website,Kolkata,2,299,0.0,598.0
+2026-05-20,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-05-20,Saree,Offline,Delhi,2,2499,0.1,4498.2
+2026-05-21,Saree,Instagram,Delhi,2,2499,0.1,4498.2
+2026-05-21,Jhumka,Offline,Lucknow,2,299,0.0,598.0
+2026-05-21,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-05-21,Saree,WhatsApp,Pune,2,2499,0.1,4498.2
+2026-05-21,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-05-21,Kurti,Instagram,Bengaluru,3,899,0.2,2157.6
+2026-05-21,Potli bag,Website,Bengaluru,2,599,0.0,1198.0
+2026-05-21,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-05-21,Kurti,Instagram,Bengaluru,1,899,0.0,899.0
+2026-05-21,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-05-21,Kurti,Offline,Pune,3,899,0.0,2697.0
+2026-05-22,Dupatta,WhatsApp,Lucknow,2,449,0.1,808.2
+2026-05-22,Saree,WhatsApp,Delhi,1,2499,0.2,1999.2
+2026-05-22,Kurti,Instagram,Pune,2,899,0.1,1618.2
+2026-05-22,Potli bag,Website,Jaipur,1,599,0.2,479.2
+2026-05-22,Potli bag,WhatsApp,Jaipur,3,599,0.1,1617.3
+2026-05-22,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-05-22,Saree,Offline,Kolkata,1,2499,0.0,2499.0
+2026-05-22,Jhumka,Website,Pune,1,299,0.2,239.2
+2026-05-22,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-05-22,Saree,Offline,Jaipur,2,2499,0.0,4998.0
+2026-05-22,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-05-22,Dupatta,WhatsApp,Bengaluru,2,449,0.1,808.2
+2026-05-22,Saree,Website,Bengaluru,2,2499,0.0,4998.0
+2026-05-23,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-05-23,Potli bag,Offline,Bengaluru,1,599,0.0,599.0
+2026-05-23,Saree,Website,Bengaluru,3,2499,0.2,5997.6
+2026-05-23,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-05-23,Jhumka,WhatsApp,Jaipur,2,299,0.1,538.2
+2026-05-23,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-05-23,Saree,Website,Jaipur,2,2499,0.0,4998.0
+2026-05-23,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-05-23,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-05-23,Saree,Instagram,Kolkata,1,2499,0.1,2249.1
+2026-05-23,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-05-23,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-05-23,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-05-23,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-05-23,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-05-23,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-05-24,Saree,Offline,Pune,3,2499,0.1,6747.3
+2026-05-24,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-05-24,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-05-24,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-05-24,Saree,Website,Lucknow,3,2499,0.1,6747.3
+2026-05-24,Jhumka,WhatsApp,Kolkata,3,299,0.2,717.6
+2026-05-24,Saree,Website,Kolkata,1,2499,0.0,2499.0
+2026-05-24,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-05-24,Dupatta,Instagram,Delhi,3,449,0.2,1077.6
+2026-05-24,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-05-24,Saree,Website,Lucknow,1,2499,0.0,2499.0
+2026-05-24,Kurti,Website,Pune,1,899,0.0,899.0
+2026-05-24,Saree,Website,Delhi,1,2499,0.0,2499.0
+2026-05-24,Saree,Website,Pune,3,2499,0.0,7497.0
+2026-05-24,Kurti,Website,Lucknow,1,899,0.0,899.0
+2026-05-24,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-05-24,Dupatta,Instagram,Lucknow,3,449,0.1,1212.3
+2026-05-24,Dupatta,Website,Jaipur,1,449,0.1,404.1
+2026-05-24,Potli bag,Instagram,Delhi,1,599,0.1,539.1
+2026-05-25,Kurti,Instagram,Bengaluru,2,899,0.1,1618.2
+2026-05-25,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-05-25,Kurti,Website,Bengaluru,3,899,0.2,2157.6
+2026-05-25,Dupatta,WhatsApp,Jaipur,1,449,0.1,404.1
+2026-05-25,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-05-25,Jhumka,Website,Kolkata,2,299,0.0,598.0
+2026-05-25,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-05-25,Saree,WhatsApp,Jaipur,2,2499,0.1,4498.2
+2026-05-25,Saree,WhatsApp,Kolkata,3,2499,0.0,7497.0
+2026-05-25,Kurti,WhatsApp,Jaipur,2,899,0.1,1618.2
+2026-05-26,Jhumka,Instagram,Delhi,3,299,0.2,717.6
+2026-05-26,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-05-26,Jhumka,WhatsApp,Bengaluru,1,299,0.2,239.2
+2026-05-26,Potli bag,Instagram,Bengaluru,2,599,0.2,958.4
+2026-05-26,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-05-26,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-05-26,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-05-26,Kurti,Instagram,Bengaluru,1,899,0.1,809.1
+2026-05-26,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-05-26,Saree,Instagram,Pune,1,2499,0.2,1999.2
+2026-05-26,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-05-26,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-05-27,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-05-27,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-05-27,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-05-27,Potli bag,Offline,Jaipur,3,599,0.2,1437.6
+2026-05-27,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-05-27,Potli bag,WhatsApp,Lucknow,2,599,0.2,958.4
+2026-05-27,Dupatta,Instagram,Jaipur,1,449,0.1,404.1
+2026-05-27,Potli bag,WhatsApp,Bengaluru,1,599,0.1,539.1
+2026-05-27,Dupatta,WhatsApp,Lucknow,2,449,0.1,808.2
+2026-05-28,Jhumka,WhatsApp,Lucknow,1,299,0.0,299.0
+2026-05-28,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-05-28,Saree,Instagram,Lucknow,1,2499,0.2,1999.2
+2026-05-28,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-05-28,Potli bag,WhatsApp,Jaipur,2,599,0.2,958.4
+2026-05-28,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-05-28,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-05-28,Potli bag,Instagram,Bengaluru,1,599,0.1,539.1
+2026-05-28,Kurti,Instagram,Pune,3,899,0.2,2157.6
+2026-05-28,Jhumka,WhatsApp,Kolkata,1,299,0.2,239.2
+2026-05-28,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-05-28,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-05-28,Dupatta,Website,Jaipur,3,449,0.2,1077.6
+2026-05-28,Potli bag,Instagram,Pune,2,599,0.2,958.4
+2026-05-28,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-05-28,Saree,Offline,Bengaluru,2,2499,0.0,4998.0
+2026-05-28,Jhumka,WhatsApp,Jaipur,3,299,0.2,717.6
+2026-05-28,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-05-28,Saree,WhatsApp,Lucknow,3,2499,0.0,7497.0
+2026-05-28,Jhumka,WhatsApp,Pune,3,299,0.1,807.3
+2026-05-28,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-05-29,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-05-29,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-05-29,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-05-29,Kurti,WhatsApp,Lucknow,1,899,0.0,899.0
+2026-05-29,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-05-29,Dupatta,Offline,Delhi,2,449,0.0,898.0
+2026-05-29,Kurti,Offline,Kolkata,2,899,0.0,1798.0
+2026-05-29,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-05-29,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-05-29,Saree,Offline,Pune,1,2499,0.0,2499.0
+2026-05-29,Dupatta,Website,Delhi,3,449,0.1,1212.3
+2026-05-30,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-05-30,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-05-30,Jhumka,Instagram,Lucknow,2,299,0.1,538.2
+2026-05-30,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-05-30,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-05-30,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-05-30,Kurti,Offline,Bengaluru,3,899,0.1,2427.3
+2026-05-30,Jhumka,WhatsApp,Kolkata,1,299,0.2,239.2
+2026-05-30,Saree,Offline,Bengaluru,2,2499,0.2,3998.4
+2026-05-30,Dupatta,WhatsApp,Lucknow,3,449,0.1,1212.3
+2026-05-30,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-05-30,Kurti,Website,Delhi,1,899,0.1,809.1
+2026-05-30,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-05-30,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-05-30,Saree,WhatsApp,Jaipur,3,2499,0.2,5997.6
+2026-05-30,Jhumka,Instagram,Bengaluru,3,299,0.2,717.6
+2026-05-30,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-05-30,Kurti,Offline,Pune,1,899,0.0,899.0
+2026-05-30,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-05-30,Dupatta,Website,Pune,3,449,0.2,1077.6
+2026-05-30,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-05-30,Dupatta,Offline,Lucknow,1,449,0.0,449.0
+2026-05-30,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-05-31,Kurti,WhatsApp,Kolkata,2,899,0.0,1798.0
+2026-05-31,Potli bag,Instagram,Kolkata,1,599,0.1,539.1
+2026-05-31,Jhumka,Instagram,Jaipur,3,299,0.1,807.3
+2026-05-31,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-05-31,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-05-31,Dupatta,Instagram,Lucknow,2,449,0.2,718.4
+2026-05-31,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-05-31,Jhumka,WhatsApp,Bengaluru,1,299,0.0,299.0
+2026-05-31,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-05-31,Potli bag,Website,Pune,3,599,0.1,1617.3
+2026-05-31,Potli bag,Website,Pune,2,599,0.0,1198.0
+2026-05-31,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-05-31,Jhumka,Instagram,Bengaluru,3,299,0.2,717.6
+2026-06-01,Saree,WhatsApp,Kolkata,2,2499,0.0,4998.0
+2026-06-01,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-06-01,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-06-01,Saree,Instagram,Jaipur,3,2499,0.1,6747.3
+2026-06-01,Kurti,Instagram,Delhi,3,899,0.2,2157.6
+2026-06-01,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-06-01,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-06-01,Jhumka,Instagram,Lucknow,2,299,0.1,538.2
+2026-06-01,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-06-01,Jhumka,Instagram,Kolkata,2,299,0.2,478.4
+2026-06-01,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-06-01,Kurti,Website,Lucknow,3,899,0.0,2697.0
+2026-06-01,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-06-02,Jhumka,Instagram,Kolkata,1,299,0.2,239.2
+2026-06-02,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-06-02,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-06-02,Dupatta,WhatsApp,Bengaluru,3,449,0.0,1347.0
+2026-06-02,Jhumka,Offline,Bengaluru,2,299,0.0,598.0
+2026-06-02,Dupatta,Offline,Bengaluru,2,449,0.0,898.0
+2026-06-02,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-06-02,Jhumka,WhatsApp,Lucknow,1,299,0.0,299.0
+2026-06-02,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-06-02,Jhumka,Instagram,Delhi,3,299,0.2,717.6
+2026-06-02,Kurti,Offline,Bengaluru,3,899,0.0,2697.0
+2026-06-02,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-06-02,Kurti,WhatsApp,Jaipur,2,899,0.1,1618.2
+2026-06-02,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-06-03,Saree,Offline,Delhi,1,2499,0.1,2249.1
+2026-06-03,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-06-03,Jhumka,Website,Jaipur,1,299,0.1,269.1
+2026-06-03,Potli bag,Instagram,Bengaluru,1,599,0.2,479.2
+2026-06-03,Saree,Instagram,Kolkata,3,2499,0.2,5997.6
+2026-06-03,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-06-03,Kurti,Instagram,Lucknow,2,899,0.2,1438.4
+2026-06-03,Jhumka,Instagram,Kolkata,3,299,0.1,807.3
+2026-06-03,Jhumka,Instagram,Jaipur,3,299,0.2,717.6
+2026-06-03,Dupatta,Instagram,Bengaluru,2,449,0.0,898.0
+2026-06-03,Saree,Website,Pune,1,2499,0.2,1999.2
+2026-06-03,Jhumka,Website,Lucknow,1,299,0.0,299.0
+2026-06-04,Kurti,WhatsApp,Lucknow,1,899,0.0,899.0
+2026-06-04,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-06-04,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-06-04,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-06-04,Kurti,WhatsApp,Delhi,3,899,0.2,2157.6
+2026-06-04,Kurti,WhatsApp,Jaipur,1,899,0.0,899.0
+2026-06-04,Saree,Offline,Kolkata,1,2499,0.0,2499.0
+2026-06-04,Dupatta,Instagram,Jaipur,3,449,0.1,1212.3
+2026-06-04,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-06-04,Dupatta,Website,Jaipur,2,449,0.2,718.4
+2026-06-04,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-06-04,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-06-05,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-06-05,Potli bag,WhatsApp,Jaipur,3,599,0.0,1797.0
+2026-06-05,Dupatta,Website,Delhi,3,449,0.1,1212.3
+2026-06-05,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-06-05,Kurti,Website,Pune,3,899,0.0,2697.0
+2026-06-05,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-06-05,Dupatta,WhatsApp,Jaipur,1,449,0.2,359.2
+2026-06-05,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-06-05,Potli bag,Instagram,Bengaluru,3,599,0.2,1437.6
+2026-06-05,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-06-05,Jhumka,Offline,Kolkata,1,299,0.0,299.0
+2026-06-05,Kurti,Offline,Bengaluru,3,899,0.2,2157.6
+2026-06-05,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-06-05,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-06-05,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-06-05,Jhumka,Website,Bengaluru,2,299,0.1,538.2
+2026-06-05,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-06-05,Saree,Website,Pune,2,2499,0.0,4998.0
+2026-06-05,Potli bag,Website,Jaipur,1,599,0.0,599.0
+2026-06-05,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-06-06,Jhumka,Offline,Lucknow,1,299,0.2,239.2
+2026-06-06,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-06-06,Dupatta,Website,Kolkata,3,449,0.0,1347.0
+2026-06-06,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-06-06,Jhumka,Instagram,Jaipur,1,299,0.1,269.1
+2026-06-06,Saree,WhatsApp,Kolkata,3,2499,0.0,7497.0
+2026-06-06,Saree,WhatsApp,Pune,3,2499,0.2,5997.6
+2026-06-06,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-06-06,Kurti,Instagram,Kolkata,3,899,0.2,2157.6
+2026-06-06,Potli bag,Offline,Delhi,2,599,0.0,1198.0
+2026-06-06,Kurti,Instagram,Bengaluru,3,899,0.1,2427.3
+2026-06-06,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-06-06,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-06-06,Kurti,Website,Delhi,1,899,0.0,899.0
+2026-06-06,Jhumka,WhatsApp,Kolkata,2,299,0.0,598.0
+2026-06-06,Dupatta,WhatsApp,Pune,3,449,0.0,1347.0
+2026-06-07,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-06-07,Dupatta,Instagram,Jaipur,3,449,0.1,1212.3
+2026-06-07,Jhumka,Instagram,Bengaluru,1,299,0.1,269.1
+2026-06-07,Potli bag,Instagram,Bengaluru,3,599,0.1,1617.3
+2026-06-07,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-06-07,Dupatta,Instagram,Bengaluru,3,449,0.1,1212.3
+2026-06-07,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-06-07,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-06-07,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-06-07,Dupatta,WhatsApp,Delhi,3,449,0.1,1212.3
+2026-06-07,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-06-07,Saree,Instagram,Kolkata,2,2499,0.2,3998.4
+2026-06-07,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-06-07,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-06-07,Jhumka,WhatsApp,Lucknow,3,299,0.2,717.6
+2026-06-07,Jhumka,Instagram,Kolkata,2,299,0.2,478.4
+2026-06-07,Dupatta,Offline,Lucknow,2,449,0.1,808.2
+2026-06-07,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-06-07,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-06-07,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-06-07,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-06-08,Kurti,WhatsApp,Jaipur,3,899,0.2,2157.6
+2026-06-08,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-06-08,Saree,Offline,Jaipur,3,2499,0.0,7497.0
+2026-06-08,Potli bag,Website,Kolkata,2,599,0.0,1198.0
+2026-06-08,Saree,Instagram,Jaipur,3,2499,0.2,5997.6
+2026-06-08,Saree,WhatsApp,Jaipur,1,2499,0.1,2249.1
+2026-06-08,Jhumka,WhatsApp,Bengaluru,3,299,0.0,897.0
+2026-06-08,Saree,Offline,Bengaluru,2,2499,0.1,4498.2
+2026-06-08,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-06-08,Saree,Offline,Lucknow,1,2499,0.2,1999.2
+2026-06-08,Dupatta,Website,Bengaluru,3,449,0.2,1077.6
+2026-06-08,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-06-08,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-06-08,Dupatta,Instagram,Kolkata,2,449,0.1,808.2
+2026-06-08,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-06-09,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-06-09,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-06-09,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-06-09,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-06-09,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-06-09,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-06-09,Dupatta,Instagram,Bengaluru,3,449,0.1,1212.3
+2026-06-09,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-06-09,Jhumka,WhatsApp,Jaipur,1,299,0.2,239.2
+2026-06-09,Kurti,Offline,Pune,3,899,0.0,2697.0
+2026-06-09,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-06-09,Jhumka,Instagram,Jaipur,2,299,0.1,538.2
+2026-06-09,Kurti,Instagram,Kolkata,2,899,0.0,1798.0
+2026-06-09,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-06-09,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-06-09,Kurti,WhatsApp,Lucknow,1,899,0.2,719.2
+2026-06-09,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-06-09,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-06-09,Kurti,Instagram,Bengaluru,3,899,0.0,2697.0
+2026-06-10,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-06-10,Potli bag,Offline,Bengaluru,3,599,0.1,1617.3
+2026-06-10,Saree,Instagram,Pune,3,2499,0.0,7497.0
+2026-06-10,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-06-10,Dupatta,Instagram,Pune,2,449,0.1,808.2
+2026-06-10,Jhumka,Website,Delhi,3,299,0.1,807.3
+2026-06-10,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-06-10,Dupatta,Website,Bengaluru,1,449,0.2,359.2
+2026-06-10,Kurti,Instagram,Jaipur,2,899,0.2,1438.4
+2026-06-10,Jhumka,Website,Bengaluru,2,299,0.0,598.0
+2026-06-10,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-06-10,Kurti,WhatsApp,Jaipur,3,899,0.1,2427.3
+2026-06-10,Dupatta,WhatsApp,Jaipur,3,449,0.0,1347.0
+2026-06-10,Jhumka,Instagram,Delhi,3,299,0.0,897.0
+2026-06-10,Jhumka,Instagram,Lucknow,3,299,0.2,717.6
+2026-06-10,Dupatta,Instagram,Kolkata,2,449,0.1,808.2
+2026-06-10,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-06-10,Saree,Offline,Lucknow,3,2499,0.0,7497.0
+2026-06-10,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-06-10,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-06-10,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-06-11,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-06-11,Dupatta,Instagram,Pune,1,449,0.1,404.1
+2026-06-11,Saree,Instagram,Delhi,2,2499,0.1,4498.2
+2026-06-11,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-06-11,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-06-11,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-06-11,Jhumka,Instagram,Lucknow,2,299,0.2,478.4
+2026-06-11,Kurti,Instagram,Bengaluru,3,899,0.2,2157.6
+2026-06-11,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-06-12,Saree,Instagram,Bengaluru,3,2499,0.2,5997.6
+2026-06-12,Saree,Instagram,Pune,2,2499,0.2,3998.4
+2026-06-12,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-06-12,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-06-12,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-06-12,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-06-12,Potli bag,Instagram,Pune,1,599,0.1,539.1
+2026-06-12,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-06-12,Potli bag,WhatsApp,Jaipur,3,599,0.2,1437.6
+2026-06-12,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-06-12,Dupatta,WhatsApp,Lucknow,3,449,0.2,1077.6
+2026-06-12,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-06-12,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-06-12,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-06-12,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-06-12,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-06-12,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-06-13,Jhumka,Instagram,Lucknow,1,299,0.0,299.0
+2026-06-13,Potli bag,Instagram,Kolkata,1,599,0.1,539.1
+2026-06-13,Saree,WhatsApp,Bengaluru,3,2499,0.2,5997.6
+2026-06-13,Kurti,Offline,Kolkata,3,899,0.0,2697.0
+2026-06-13,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-06-13,Potli bag,WhatsApp,Jaipur,2,599,0.1,1078.2
+2026-06-13,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-06-13,Saree,Instagram,Delhi,1,2499,0.2,1999.2
+2026-06-13,Saree,Instagram,Delhi,1,2499,0.2,1999.2
+2026-06-13,Saree,Instagram,Lucknow,1,2499,0.2,1999.2
+2026-06-13,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-06-13,Jhumka,Website,Jaipur,1,299,0.0,299.0
+2026-06-13,Dupatta,WhatsApp,Bengaluru,3,449,0.0,1347.0
+2026-06-13,Jhumka,Website,Jaipur,2,299,0.2,478.4
+2026-06-13,Kurti,Website,Bengaluru,3,899,0.1,2427.3
+2026-06-13,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-06-13,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-06-13,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-06-13,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-06-13,Jhumka,Website,Pune,3,299,0.2,717.6
+2026-06-13,Saree,WhatsApp,Jaipur,1,2499,0.1,2249.1
+2026-06-13,Potli bag,Instagram,Lucknow,1,599,0.1,539.1
+2026-06-13,Potli bag,Website,Lucknow,2,599,0.2,958.4
+2026-06-13,Kurti,WhatsApp,Bengaluru,1,899,0.2,719.2
+2026-06-14,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-06-14,Kurti,WhatsApp,Lucknow,1,899,0.1,809.1
+2026-06-14,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-06-14,Jhumka,Offline,Kolkata,3,299,0.0,897.0
+2026-06-14,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-06-14,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-06-14,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-06-14,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-06-14,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-06-14,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-06-14,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-06-14,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-06-14,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-06-14,Jhumka,WhatsApp,Bengaluru,1,299,0.1,269.1
+2026-06-14,Saree,Offline,Lucknow,3,2499,0.0,7497.0
+2026-06-14,Potli bag,Offline,Delhi,1,599,0.2,479.2
+2026-06-15,Saree,WhatsApp,Lucknow,2,2499,0.1,4498.2
+2026-06-15,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-06-15,Dupatta,Instagram,Delhi,3,449,0.1,1212.3
+2026-06-15,Kurti,WhatsApp,Lucknow,2,899,0.0,1798.0
+2026-06-15,Dupatta,Website,Bengaluru,1,449,0.1,404.1
+2026-06-15,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-06-15,Potli bag,Instagram,Pune,2,599,0.2,958.4
+2026-06-15,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-06-15,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-06-15,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-06-15,Jhumka,Instagram,Kolkata,2,299,0.2,478.4
+2026-06-15,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-06-15,Kurti,Instagram,Kolkata,3,899,0.2,2157.6
+2026-06-15,Jhumka,Offline,Kolkata,2,299,0.2,478.4
+2026-06-15,Potli bag,WhatsApp,Delhi,2,599,0.0,1198.0
+2026-06-15,Kurti,WhatsApp,Kolkata,1,899,0.1,809.1
+2026-06-15,Kurti,WhatsApp,Bengaluru,3,899,0.2,2157.6
+2026-06-15,Potli bag,Website,Kolkata,2,599,0.0,1198.0
+2026-06-15,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-06-15,Jhumka,WhatsApp,Bengaluru,1,299,0.0,299.0
+2026-06-15,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-06-15,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-06-16,Kurti,Offline,Jaipur,1,899,0.0,899.0
+2026-06-16,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-06-16,Jhumka,Website,Delhi,1,299,0.1,269.1
+2026-06-16,Jhumka,Website,Delhi,1,299,0.2,239.2
+2026-06-16,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-06-16,Saree,Instagram,Lucknow,2,2499,0.2,3998.4
+2026-06-16,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-06-16,Jhumka,Instagram,Bengaluru,3,299,0.1,807.3
+2026-06-16,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-06-16,Kurti,Website,Jaipur,1,899,0.0,899.0
+2026-06-16,Potli bag,Instagram,Bengaluru,2,599,0.1,1078.2
+2026-06-16,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-06-16,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-06-16,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-06-16,Potli bag,Website,Lucknow,2,599,0.0,1198.0
+2026-06-16,Saree,WhatsApp,Lucknow,1,2499,0.1,2249.1
+2026-06-16,Saree,WhatsApp,Lucknow,3,2499,0.2,5997.6
+2026-06-16,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-06-16,Dupatta,Website,Jaipur,3,449,0.2,1077.6
+2026-06-17,Saree,Website,Delhi,1,2499,0.2,1999.2
+2026-06-17,Jhumka,WhatsApp,Pune,1,299,0.0,299.0
+2026-06-17,Saree,WhatsApp,Lucknow,3,2499,0.2,5997.6
+2026-06-17,Potli bag,Website,Delhi,3,599,0.0,1797.0
+2026-06-17,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-06-17,Kurti,Instagram,Kolkata,2,899,0.2,1438.4
+2026-06-17,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-06-17,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-06-17,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-06-17,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-06-17,Dupatta,Instagram,Bengaluru,3,449,0.2,1077.6
+2026-06-17,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-06-17,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-06-17,Saree,WhatsApp,Delhi,3,2499,0.0,7497.0
+2026-06-17,Saree,Instagram,Lucknow,3,2499,0.2,5997.6
+2026-06-17,Saree,Instagram,Bengaluru,2,2499,0.0,4998.0
+2026-06-17,Saree,WhatsApp,Delhi,1,2499,0.0,2499.0
+2026-06-17,Jhumka,Website,Kolkata,2,299,0.0,598.0
+2026-06-18,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-06-18,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-06-18,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-06-18,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-06-18,Potli bag,Offline,Delhi,2,599,0.0,1198.0
+2026-06-18,Jhumka,Website,Jaipur,1,299,0.0,299.0
+2026-06-18,Potli bag,Website,Bengaluru,1,599,0.0,599.0
+2026-06-18,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-06-18,Saree,Website,Kolkata,3,2499,0.0,7497.0
+2026-06-18,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-06-18,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-06-18,Dupatta,Offline,Kolkata,2,449,0.1,808.2
+2026-06-18,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-06-18,Saree,Instagram,Pune,2,2499,0.2,3998.4
+2026-06-18,Dupatta,WhatsApp,Pune,2,449,0.2,718.4
+2026-06-18,Saree,WhatsApp,Kolkata,2,2499,0.1,4498.2
+2026-06-18,Saree,WhatsApp,Pune,3,2499,0.1,6747.3
+2026-06-18,Kurti,Instagram,Delhi,2,899,0.1,1618.2
+2026-06-18,Potli bag,WhatsApp,Bengaluru,2,599,0.2,958.4
+2026-06-19,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-06-19,Saree,Instagram,Pune,2,2499,0.2,3998.4
+2026-06-19,Jhumka,Website,Bengaluru,2,299,0.2,478.4
+2026-06-19,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-06-19,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-06-19,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-06-19,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-06-19,Potli bag,Website,Kolkata,2,599,0.2,958.4
+2026-06-20,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-06-20,Potli bag,WhatsApp,Bengaluru,3,599,0.2,1437.6
+2026-06-20,Potli bag,Website,Jaipur,2,599,0.1,1078.2
+2026-06-20,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-06-20,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-06-20,Potli bag,Offline,Bengaluru,1,599,0.0,599.0
+2026-06-20,Kurti,WhatsApp,Pune,2,899,0.1,1618.2
+2026-06-20,Jhumka,Instagram,Delhi,2,299,0.2,478.4
+2026-06-20,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-06-20,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-06-20,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-06-20,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-06-21,Dupatta,WhatsApp,Pune,2,449,0.1,808.2
+2026-06-21,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-06-21,Kurti,Instagram,Lucknow,3,899,0.0,2697.0
+2026-06-21,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-06-21,Dupatta,WhatsApp,Jaipur,2,449,0.2,718.4
+2026-06-21,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-06-21,Jhumka,WhatsApp,Jaipur,1,299,0.2,239.2
+2026-06-21,Saree,Offline,Pune,2,2499,0.0,4998.0
+2026-06-21,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-06-21,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-06-21,Potli bag,Website,Kolkata,2,599,0.1,1078.2
+2026-06-21,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-06-21,Dupatta,WhatsApp,Delhi,1,449,0.1,404.1
+2026-06-21,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-06-21,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-06-21,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-06-21,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-06-21,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-06-21,Saree,Instagram,Lucknow,1,2499,0.1,2249.1
+2026-06-21,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-06-21,Potli bag,WhatsApp,Bengaluru,3,599,0.1,1617.3
+2026-06-21,Potli bag,Offline,Jaipur,1,599,0.2,479.2
+2026-06-21,Dupatta,Offline,Lucknow,1,449,0.0,449.0
+2026-06-22,Potli bag,Website,Lucknow,3,599,0.0,1797.0
+2026-06-22,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-06-22,Potli bag,Instagram,Pune,1,599,0.1,539.1
+2026-06-22,Saree,WhatsApp,Kolkata,3,2499,0.2,5997.6
+2026-06-22,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-06-22,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-06-22,Potli bag,Offline,Bengaluru,3,599,0.0,1797.0
+2026-06-22,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-06-22,Kurti,Instagram,Pune,2,899,0.1,1618.2
+2026-06-22,Kurti,Instagram,Jaipur,1,899,0.1,809.1
+2026-06-22,Dupatta,WhatsApp,Bengaluru,2,449,0.2,718.4
+2026-06-22,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-06-22,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-06-22,Jhumka,WhatsApp,Kolkata,3,299,0.2,717.6
+2026-06-22,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-06-22,Saree,WhatsApp,Kolkata,3,2499,0.2,5997.6
+2026-06-22,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-06-22,Saree,WhatsApp,Kolkata,3,2499,0.0,7497.0
+2026-06-22,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-06-22,Dupatta,Website,Jaipur,1,449,0.1,404.1
+2026-06-22,Jhumka,Instagram,Lucknow,2,299,0.2,478.4
+2026-06-22,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-06-23,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-06-23,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-06-23,Saree,Website,Lucknow,2,2499,0.0,4998.0
+2026-06-23,Jhumka,Website,Lucknow,3,299,0.0,897.0
+2026-06-23,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-06-23,Jhumka,Instagram,Kolkata,1,299,0.1,269.1
+2026-06-23,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-06-24,Kurti,Website,Bengaluru,3,899,0.0,2697.0
+2026-06-24,Kurti,Instagram,Kolkata,1,899,0.2,719.2
+2026-06-24,Potli bag,WhatsApp,Bengaluru,2,599,0.2,958.4
+2026-06-24,Jhumka,Website,Lucknow,2,299,0.0,598.0
+2026-06-24,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-06-24,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-06-24,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-06-24,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-06-24,Saree,Instagram,Bengaluru,2,2499,0.0,4998.0
+2026-06-24,Dupatta,Website,Pune,2,449,0.0,898.0
+2026-06-24,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-06-24,Saree,Instagram,Kolkata,3,2499,0.2,5997.6
+2026-06-24,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-06-24,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-06-24,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-06-24,Kurti,WhatsApp,Kolkata,2,899,0.0,1798.0
+2026-06-24,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-06-24,Saree,Website,Lucknow,3,2499,0.2,5997.6
+2026-06-24,Kurti,WhatsApp,Jaipur,1,899,0.1,809.1
+2026-06-24,Potli bag,Website,Jaipur,1,599,0.2,479.2
+2026-06-24,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-06-24,Dupatta,WhatsApp,Bengaluru,3,449,0.2,1077.6
+2026-06-25,Dupatta,Instagram,Bengaluru,2,449,0.1,808.2
+2026-06-25,Dupatta,Offline,Delhi,1,449,0.0,449.0
+2026-06-25,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-06-25,Potli bag,Website,Delhi,3,599,0.0,1797.0
+2026-06-25,Saree,Website,Delhi,3,2499,0.0,7497.0
+2026-06-25,Jhumka,WhatsApp,Pune,2,299,0.1,538.2
+2026-06-25,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-06-25,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-06-25,Saree,WhatsApp,Kolkata,1,2499,0.1,2249.1
+2026-06-25,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-06-25,Dupatta,Website,Delhi,3,449,0.1,1212.3
+2026-06-25,Saree,WhatsApp,Bengaluru,3,2499,0.2,5997.6
+2026-06-25,Dupatta,WhatsApp,Lucknow,2,449,0.2,718.4
+2026-06-25,Jhumka,WhatsApp,Bengaluru,3,299,0.0,897.0
+2026-06-25,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-06-25,Saree,Website,Jaipur,1,2499,0.1,2249.1
+2026-06-26,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-06-26,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-06-26,Dupatta,WhatsApp,Pune,1,449,0.1,404.1
+2026-06-26,Kurti,WhatsApp,Jaipur,3,899,0.1,2427.3
+2026-06-26,Jhumka,Offline,Bengaluru,1,299,0.2,239.2
+2026-06-26,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-06-26,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-06-26,Potli bag,Website,Lucknow,2,599,0.0,1198.0
+2026-06-26,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-06-26,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-06-27,Dupatta,Instagram,Jaipur,2,449,0.1,808.2
+2026-06-27,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-06-27,Kurti,Instagram,Lucknow,3,899,0.1,2427.3
+2026-06-27,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-06-27,Dupatta,WhatsApp,Bengaluru,3,449,0.0,1347.0
+2026-06-27,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-06-27,Potli bag,Instagram,Pune,2,599,0.1,1078.2
+2026-06-27,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-06-27,Potli bag,Offline,Pune,2,599,0.1,1078.2
+2026-06-27,Saree,WhatsApp,Pune,1,2499,0.1,2249.1
+2026-06-27,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-06-27,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-06-27,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-06-27,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-06-27,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-06-27,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-06-27,Kurti,WhatsApp,Bengaluru,1,899,0.2,719.2
+2026-06-27,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-06-27,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-06-27,Dupatta,Offline,Lucknow,2,449,0.0,898.0
+2026-06-27,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-06-27,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-06-28,Jhumka,WhatsApp,Delhi,3,299,0.2,717.6
+2026-06-28,Kurti,Instagram,Lucknow,3,899,0.0,2697.0
+2026-06-28,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-06-28,Saree,Instagram,Bengaluru,3,2499,0.1,6747.3
+2026-06-28,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-06-28,Kurti,WhatsApp,Kolkata,2,899,0.0,1798.0
+2026-06-28,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-06-28,Dupatta,Website,Pune,1,449,0.2,359.2
+2026-06-28,Potli bag,Instagram,Lucknow,3,599,0.1,1617.3
+2026-06-28,Jhumka,Instagram,Jaipur,1,299,0.2,239.2
+2026-06-28,Kurti,Website,Jaipur,3,899,0.2,2157.6
+2026-06-28,Potli bag,WhatsApp,Jaipur,1,599,0.1,539.1
+2026-06-28,Kurti,Offline,Kolkata,1,899,0.0,899.0
+2026-06-28,Jhumka,Website,Delhi,3,299,0.2,717.6
+2026-06-28,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-06-28,Kurti,Instagram,Delhi,2,899,0.1,1618.2
+2026-06-28,Saree,Website,Bengaluru,1,2499,0.1,2249.1
+2026-06-28,Jhumka,WhatsApp,Delhi,3,299,0.2,717.6
+2026-06-28,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-06-28,Potli bag,Instagram,Pune,1,599,0.0,599.0
+2026-06-28,Saree,Instagram,Pune,2,2499,0.0,4998.0
+2026-06-28,Saree,Website,Pune,3,2499,0.2,5997.6
+2026-06-28,Kurti,Website,Kolkata,2,899,0.1,1618.2
+2026-06-28,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-06-28,Jhumka,Instagram,Pune,1,299,0.1,269.1
+2026-06-29,Potli bag,WhatsApp,Delhi,2,599,0.2,958.4
+2026-06-29,Jhumka,Instagram,Kolkata,3,299,0.2,717.6
+2026-06-29,Potli bag,WhatsApp,Pune,2,599,0.2,958.4
+2026-06-29,Potli bag,Offline,Jaipur,2,599,0.0,1198.0
+2026-06-29,Jhumka,WhatsApp,Kolkata,1,299,0.1,269.1
+2026-06-29,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-06-29,Saree,Instagram,Pune,3,2499,0.1,6747.3
+2026-06-29,Saree,Instagram,Kolkata,1,2499,0.1,2249.1
+2026-06-29,Saree,WhatsApp,Kolkata,3,2499,0.0,7497.0
+2026-06-29,Dupatta,Offline,Kolkata,1,449,0.2,359.2
+2026-06-29,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-06-30,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-06-30,Dupatta,Website,Jaipur,1,449,0.0,449.0
+2026-06-30,Kurti,Website,Lucknow,2,899,0.1,1618.2
+2026-06-30,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-06-30,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-06-30,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-06-30,Potli bag,Website,Bengaluru,2,599,0.0,1198.0
+2026-06-30,Dupatta,Offline,Kolkata,2,449,0.0,898.0
+2026-06-30,Kurti,Offline,Pune,2,899,0.0,1798.0
+2026-06-30,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-06-30,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-06-30,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-06-30,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-07-01,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-07-01,Potli bag,Website,Jaipur,2,599,0.1,1078.2
+2026-07-01,Kurti,Offline,Delhi,2,899,0.0,1798.0
+2026-07-01,Kurti,Website,Kolkata,3,899,0.0,2697.0
+2026-07-01,Kurti,WhatsApp,Lucknow,3,899,0.1,2427.3
+2026-07-01,Kurti,Instagram,Jaipur,2,899,0.1,1618.2
+2026-07-01,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-07-01,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-07-01,Dupatta,Offline,Pune,2,449,0.1,808.2
+2026-07-01,Saree,Website,Bengaluru,3,2499,0.0,7497.0
+2026-07-01,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-07-01,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-07-01,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-07-02,Dupatta,Instagram,Pune,1,449,0.1,404.1
+2026-07-02,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-07-02,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-07-02,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-07-02,Potli bag,Instagram,Jaipur,1,599,0.2,479.2
+2026-07-02,Potli bag,WhatsApp,Jaipur,1,599,0.2,479.2
+2026-07-02,Kurti,WhatsApp,Jaipur,1,899,0.1,809.1
+2026-07-02,Saree,Offline,Kolkata,1,2499,0.1,2249.1
+2026-07-02,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-07-02,Jhumka,Website,Kolkata,1,299,0.0,299.0
+2026-07-02,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-07-02,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-07-02,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-07-02,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-07-02,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-07-02,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-07-03,Kurti,Offline,Delhi,1,899,0.2,719.2
+2026-07-03,Dupatta,Offline,Bengaluru,1,449,0.1,404.1
+2026-07-03,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-07-03,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-07-03,Dupatta,Offline,Pune,1,449,0.2,359.2
+2026-07-03,Jhumka,Offline,Kolkata,3,299,0.0,897.0
+2026-07-03,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-07-03,Jhumka,WhatsApp,Delhi,2,299,0.1,538.2
+2026-07-03,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-07-03,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-07-04,Saree,WhatsApp,Delhi,1,2499,0.1,2249.1
+2026-07-04,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-07-04,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-07-04,Dupatta,Offline,Kolkata,3,449,0.0,1347.0
+2026-07-04,Potli bag,Offline,Pune,3,599,0.1,1617.3
+2026-07-04,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-07-04,Saree,Instagram,Delhi,1,2499,0.2,1999.2
+2026-07-04,Kurti,WhatsApp,Kolkata,3,899,0.2,2157.6
+2026-07-04,Jhumka,Instagram,Kolkata,1,299,0.2,239.2
+2026-07-04,Jhumka,Instagram,Jaipur,1,299,0.2,239.2
+2026-07-04,Potli bag,Website,Kolkata,1,599,0.0,599.0
+2026-07-04,Saree,Website,Delhi,3,2499,0.0,7497.0
+2026-07-04,Potli bag,WhatsApp,Jaipur,3,599,0.0,1797.0
+2026-07-05,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-07-05,Dupatta,Offline,Delhi,1,449,0.0,449.0
+2026-07-05,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-07-05,Jhumka,Offline,Pune,3,299,0.2,717.6
+2026-07-05,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-07-05,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-07-05,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-07-05,Dupatta,Instagram,Lucknow,1,449,0.2,359.2
+2026-07-05,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-07-05,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-07-05,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-07-05,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-07-05,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-07-05,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-07-05,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-07-05,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-07-05,Potli bag,Instagram,Pune,1,599,0.1,539.1
+2026-07-05,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-07-06,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-07-06,Dupatta,WhatsApp,Kolkata,2,449,0.1,808.2
+2026-07-06,Dupatta,Offline,Lucknow,2,449,0.0,898.0
+2026-07-06,Saree,WhatsApp,Lucknow,3,2499,0.2,5997.6
+2026-07-06,Kurti,Instagram,Bengaluru,1,899,0.0,899.0
+2026-07-06,Dupatta,Website,Bengaluru,1,449,0.2,359.2
+2026-07-06,Saree,Instagram,Delhi,1,2499,0.2,1999.2
+2026-07-06,Dupatta,Offline,Delhi,2,449,0.0,898.0
+2026-07-06,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-07-06,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-07-06,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-07-06,Saree,Website,Lucknow,1,2499,0.2,1999.2
+2026-07-06,Kurti,Website,Pune,3,899,0.0,2697.0
+2026-07-06,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-07-06,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-07-06,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-07-07,Dupatta,WhatsApp,Jaipur,3,449,0.2,1077.6
+2026-07-07,Kurti,Instagram,Kolkata,2,899,0.1,1618.2
+2026-07-07,Kurti,WhatsApp,Pune,1,899,0.1,809.1
+2026-07-07,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-07-07,Saree,Instagram,Delhi,2,2499,0.2,3998.4
+2026-07-07,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-07-07,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-07-07,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-07-07,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-07-07,Kurti,WhatsApp,Jaipur,1,899,0.1,809.1
+2026-07-07,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-07-07,Kurti,Website,Delhi,3,899,0.0,2697.0
+2026-07-08,Jhumka,Offline,Delhi,2,299,0.1,538.2
+2026-07-08,Dupatta,Instagram,Bengaluru,2,449,0.0,898.0
+2026-07-08,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-07-08,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-07-08,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-07-08,Potli bag,Offline,Kolkata,1,599,0.0,599.0
+2026-07-08,Jhumka,Offline,Kolkata,1,299,0.0,299.0
+2026-07-08,Potli bag,WhatsApp,Delhi,1,599,0.1,539.1
+2026-07-08,Dupatta,Website,Delhi,2,449,0.2,718.4
+2026-07-08,Dupatta,Website,Bengaluru,2,449,0.0,898.0
+2026-07-09,Saree,Instagram,Pune,1,2499,0.2,1999.2
+2026-07-09,Jhumka,WhatsApp,Delhi,2,299,0.2,478.4
+2026-07-09,Dupatta,Instagram,Jaipur,1,449,0.0,449.0
+2026-07-09,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-07-09,Kurti,Instagram,Bengaluru,3,899,0.0,2697.0
+2026-07-09,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-07-09,Saree,Website,Delhi,2,2499,0.1,4498.2
+2026-07-09,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-07-09,Kurti,Instagram,Bengaluru,2,899,0.2,1438.4
+2026-07-09,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-07-09,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-07-09,Saree,Instagram,Jaipur,1,2499,0.1,2249.1
+2026-07-09,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-07-09,Kurti,Instagram,Kolkata,3,899,0.1,2427.3
+2026-07-09,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-07-09,Jhumka,Offline,Delhi,1,299,0.0,299.0
+2026-07-09,Jhumka,Offline,Bengaluru,3,299,0.0,897.0
+2026-07-09,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-07-10,Saree,Website,Kolkata,1,2499,0.1,2249.1
+2026-07-10,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-07-10,Jhumka,WhatsApp,Lucknow,3,299,0.2,717.6
+2026-07-10,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-07-10,Jhumka,Offline,Kolkata,2,299,0.2,478.4
+2026-07-10,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-07-10,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-07-10,Dupatta,WhatsApp,Kolkata,3,449,0.0,1347.0
+2026-07-10,Saree,WhatsApp,Jaipur,3,2499,0.1,6747.3
+2026-07-10,Saree,Website,Delhi,2,2499,0.2,3998.4
+2026-07-10,Dupatta,Website,Delhi,2,449,0.0,898.0
+2026-07-10,Saree,Instagram,Kolkata,3,2499,0.1,6747.3
+2026-07-10,Dupatta,WhatsApp,Lucknow,3,449,0.2,1077.6
+2026-07-10,Saree,Website,Pune,1,2499,0.1,2249.1
+2026-07-10,Kurti,Website,Lucknow,2,899,0.1,1618.2
+2026-07-10,Jhumka,Offline,Jaipur,3,299,0.0,897.0
+2026-07-10,Jhumka,Offline,Bengaluru,3,299,0.0,897.0
+2026-07-11,Potli bag,WhatsApp,Jaipur,2,599,0.2,958.4
+2026-07-11,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-07-11,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-07-11,Potli bag,Instagram,Delhi,2,599,0.1,1078.2
+2026-07-11,Saree,Instagram,Lucknow,3,2499,0.2,5997.6
+2026-07-11,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-07-11,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-07-11,Jhumka,Instagram,Delhi,2,299,0.2,478.4
+2026-07-11,Saree,Website,Pune,3,2499,0.1,6747.3
+2026-07-11,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-07-11,Dupatta,Instagram,Bengaluru,2,449,0.2,718.4
+2026-07-11,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-07-11,Saree,Instagram,Pune,2,2499,0.0,4998.0
+2026-07-11,Kurti,Offline,Lucknow,3,899,0.2,2157.6
+2026-07-11,Dupatta,Website,Pune,2,449,0.0,898.0
+2026-07-11,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-07-11,Saree,Website,Kolkata,3,2499,0.0,7497.0
+2026-07-11,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-07-11,Kurti,Instagram,Delhi,3,899,0.2,2157.6
+2026-07-11,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-07-11,Kurti,Website,Jaipur,3,899,0.0,2697.0
+2026-07-11,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-07-11,Jhumka,Offline,Kolkata,2,299,0.0,598.0
+2026-07-11,Potli bag,WhatsApp,Lucknow,3,599,0.2,1437.6
+2026-07-11,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-07-12,Dupatta,Offline,Delhi,1,449,0.0,449.0
+2026-07-12,Dupatta,Offline,Bengaluru,3,449,0.1,1212.3
+2026-07-12,Saree,Instagram,Jaipur,2,2499,0.1,4498.2
+2026-07-12,Kurti,Offline,Jaipur,2,899,0.2,1438.4
+2026-07-12,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-07-12,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-07-12,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-07-12,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-07-12,Saree,Offline,Jaipur,1,2499,0.2,1999.2
+2026-07-12,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-07-12,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-07-12,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-07-12,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-07-12,Dupatta,WhatsApp,Lucknow,2,449,0.1,808.2
+2026-07-12,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-07-12,Saree,Instagram,Pune,3,2499,0.0,7497.0
+2026-07-13,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-07-13,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-07-13,Potli bag,Instagram,Jaipur,1,599,0.2,479.2
+2026-07-13,Jhumka,Instagram,Delhi,1,299,0.2,239.2
+2026-07-13,Potli bag,Instagram,Bengaluru,2,599,0.1,1078.2
+2026-07-13,Saree,Website,Bengaluru,1,2499,0.2,1999.2
+2026-07-13,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-07-13,Saree,Instagram,Delhi,1,2499,0.0,2499.0
+2026-07-13,Kurti,WhatsApp,Lucknow,2,899,0.2,1438.4
+2026-07-13,Jhumka,Website,Lucknow,1,299,0.0,299.0
+2026-07-14,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-07-14,Kurti,WhatsApp,Jaipur,3,899,0.0,2697.0
+2026-07-14,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-07-14,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-07-14,Saree,WhatsApp,Delhi,2,2499,0.1,4498.2
+2026-07-14,Jhumka,Website,Pune,1,299,0.1,269.1
+2026-07-14,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-07-14,Dupatta,Website,Lucknow,1,449,0.0,449.0
+2026-07-14,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-07-14,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-07-14,Saree,Website,Lucknow,3,2499,0.2,5997.6
+2026-07-14,Jhumka,Offline,Kolkata,3,299,0.0,897.0
+2026-07-14,Dupatta,Website,Bengaluru,3,449,0.2,1077.6
+2026-07-14,Saree,Offline,Kolkata,3,2499,0.0,7497.0
+2026-07-14,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-07-14,Jhumka,Website,Lucknow,3,299,0.0,897.0
+2026-07-14,Jhumka,Instagram,Bengaluru,3,299,0.2,717.6
+2026-07-14,Dupatta,Offline,Kolkata,3,449,0.0,1347.0
+2026-07-14,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-07-15,Potli bag,Instagram,Lucknow,3,599,0.1,1617.3
+2026-07-15,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-07-15,Kurti,Instagram,Kolkata,1,899,0.0,899.0
+2026-07-15,Potli bag,Instagram,Jaipur,3,599,0.1,1617.3
+2026-07-15,Potli bag,WhatsApp,Pune,1,599,0.1,539.1
+2026-07-15,Kurti,Instagram,Lucknow,3,899,0.1,2427.3
+2026-07-15,Dupatta,Offline,Jaipur,1,449,0.0,449.0
+2026-07-15,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-07-15,Dupatta,Instagram,Jaipur,1,449,0.0,449.0
+2026-07-15,Dupatta,Instagram,Pune,3,449,0.2,1077.6
+2026-07-15,Saree,Offline,Pune,2,2499,0.0,4998.0
+2026-07-16,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-07-16,Dupatta,Website,Delhi,3,449,0.1,1212.3
+2026-07-16,Kurti,Website,Delhi,3,899,0.1,2427.3
+2026-07-16,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-07-16,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-07-16,Potli bag,Instagram,Kolkata,2,599,0.1,1078.2
+2026-07-16,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-07-16,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-07-16,Dupatta,Instagram,Lucknow,3,449,0.1,1212.3
+2026-07-16,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-07-16,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-07-16,Dupatta,Offline,Pune,2,449,0.1,808.2
+2026-07-16,Saree,Instagram,Pune,3,2499,0.2,5997.6
+2026-07-16,Potli bag,WhatsApp,Delhi,2,599,0.0,1198.0
+2026-07-16,Saree,Instagram,Lucknow,2,2499,0.2,3998.4
+2026-07-16,Kurti,Website,Bengaluru,3,899,0.2,2157.6
+2026-07-16,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-07-16,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-07-16,Kurti,WhatsApp,Bengaluru,1,899,0.2,719.2
+2026-07-16,Jhumka,WhatsApp,Pune,2,299,0.0,598.0
+2026-07-16,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-07-16,Jhumka,Website,Delhi,3,299,0.2,717.6
+2026-07-16,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-07-17,Kurti,Website,Pune,3,899,0.2,2157.6
+2026-07-17,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-07-17,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-07-17,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-07-17,Saree,Website,Lucknow,3,2499,0.0,7497.0
+2026-07-17,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-07-17,Potli bag,Offline,Lucknow,3,599,0.0,1797.0
+2026-07-17,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-07-17,Kurti,Instagram,Lucknow,2,899,0.1,1618.2
+2026-07-17,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-07-17,Dupatta,Instagram,Lucknow,3,449,0.1,1212.3
+2026-07-17,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-07-17,Saree,Website,Bengaluru,3,2499,0.0,7497.0
+2026-07-17,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-07-17,Dupatta,Offline,Bengaluru,3,449,0.0,1347.0
+2026-07-17,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-07-18,Potli bag,Instagram,Pune,3,599,0.2,1437.6
+2026-07-18,Kurti,Instagram,Delhi,2,899,0.2,1438.4
+2026-07-18,Dupatta,Website,Kolkata,1,449,0.1,404.1
+2026-07-18,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-07-18,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-07-18,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-07-18,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-07-18,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-07-18,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-07-18,Potli bag,Offline,Lucknow,3,599,0.0,1797.0
+2026-07-18,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-07-18,Jhumka,Offline,Delhi,3,299,0.0,897.0
+2026-07-18,Jhumka,WhatsApp,Pune,2,299,0.1,538.2
+2026-07-18,Jhumka,Instagram,Lucknow,1,299,0.1,269.1
+2026-07-18,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-07-18,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-07-18,Potli bag,Instagram,Pune,1,599,0.0,599.0
+2026-07-18,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-07-19,Kurti,Offline,Bengaluru,2,899,0.0,1798.0
+2026-07-19,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-07-19,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-07-19,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-07-19,Kurti,Instagram,Jaipur,3,899,0.2,2157.6
+2026-07-19,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-07-19,Kurti,Offline,Delhi,2,899,0.0,1798.0
+2026-07-19,Dupatta,Instagram,Pune,1,449,0.2,359.2
+2026-07-19,Dupatta,Instagram,Jaipur,1,449,0.1,404.1
+2026-07-19,Jhumka,WhatsApp,Lucknow,1,299,0.1,269.1
+2026-07-19,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-07-19,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-07-19,Dupatta,Offline,Lucknow,1,449,0.0,449.0
+2026-07-19,Dupatta,WhatsApp,Bengaluru,3,449,0.2,1077.6
+2026-07-19,Jhumka,Instagram,Jaipur,1,299,0.2,239.2
+2026-07-19,Saree,WhatsApp,Delhi,1,2499,0.1,2249.1
+2026-07-19,Jhumka,Website,Jaipur,2,299,0.0,598.0
+2026-07-19,Saree,Instagram,Bengaluru,2,2499,0.2,3998.4
+2026-07-19,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-07-19,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-07-19,Saree,Offline,Jaipur,1,2499,0.2,1999.2
+2026-07-19,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-07-19,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-07-19,Saree,Instagram,Jaipur,3,2499,0.2,5997.6
+2026-07-20,Jhumka,WhatsApp,Bengaluru,3,299,0.0,897.0
+2026-07-20,Jhumka,Offline,Lucknow,2,299,0.1,538.2
+2026-07-20,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-07-20,Saree,Instagram,Delhi,2,2499,0.2,3998.4
+2026-07-20,Jhumka,Instagram,Bengaluru,1,299,0.2,239.2
+2026-07-20,Kurti,Website,Lucknow,3,899,0.2,2157.6
+2026-07-20,Jhumka,WhatsApp,Bengaluru,1,299,0.1,269.1
+2026-07-20,Dupatta,Instagram,Jaipur,1,449,0.1,404.1
+2026-07-20,Saree,Offline,Kolkata,2,2499,0.0,4998.0
+2026-07-20,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-07-20,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-07-20,Saree,Website,Lucknow,3,2499,0.0,7497.0
+2026-07-21,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-07-21,Jhumka,Instagram,Bengaluru,3,299,0.2,717.6
+2026-07-21,Jhumka,WhatsApp,Pune,2,299,0.0,598.0
+2026-07-21,Potli bag,WhatsApp,Delhi,1,599,0.0,599.0
+2026-07-21,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-07-21,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-07-21,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-07-21,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-07-21,Kurti,Instagram,Jaipur,1,899,0.1,809.1
+2026-07-21,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-07-22,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-07-22,Dupatta,WhatsApp,Jaipur,3,449,0.0,1347.0
+2026-07-22,Dupatta,Offline,Jaipur,2,449,0.0,898.0
+2026-07-22,Jhumka,Website,Kolkata,1,299,0.2,239.2
+2026-07-22,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-07-22,Jhumka,WhatsApp,Kolkata,3,299,0.2,717.6
+2026-07-22,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-07-22,Saree,WhatsApp,Jaipur,3,2499,0.2,5997.6
+2026-07-22,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-07-22,Dupatta,Instagram,Bengaluru,2,449,0.0,898.0
+2026-07-22,Kurti,Website,Lucknow,2,899,0.2,1438.4
+2026-07-23,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-07-23,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-07-23,Kurti,Website,Kolkata,3,899,0.1,2427.3
+2026-07-23,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-07-23,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-07-23,Kurti,WhatsApp,Kolkata,1,899,0.0,899.0
+2026-07-23,Kurti,WhatsApp,Jaipur,2,899,0.2,1438.4
+2026-07-23,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-07-23,Kurti,Instagram,Bengaluru,1,899,0.0,899.0
+2026-07-23,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-07-23,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-07-23,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-07-23,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-07-23,Potli bag,Offline,Kolkata,3,599,0.0,1797.0
+2026-07-23,Saree,WhatsApp,Kolkata,1,2499,0.1,2249.1
+2026-07-23,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-07-23,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-07-23,Potli bag,Offline,Lucknow,3,599,0.0,1797.0
+2026-07-23,Potli bag,Instagram,Delhi,3,599,0.1,1617.3
+2026-07-23,Kurti,Instagram,Lucknow,1,899,0.2,719.2
+2026-07-24,Jhumka,WhatsApp,Jaipur,3,299,0.2,717.6
+2026-07-24,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-07-24,Potli bag,Website,Jaipur,1,599,0.1,539.1
+2026-07-24,Potli bag,Website,Pune,1,599,0.0,599.0
+2026-07-24,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-07-24,Dupatta,WhatsApp,Jaipur,2,449,0.1,808.2
+2026-07-24,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-07-24,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-07-24,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-07-24,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-07-24,Dupatta,Website,Jaipur,1,449,0.2,359.2
+2026-07-24,Jhumka,WhatsApp,Jaipur,2,299,0.2,478.4
+2026-07-24,Dupatta,Instagram,Bengaluru,1,449,0.1,404.1
+2026-07-24,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-07-24,Dupatta,Website,Lucknow,1,449,0.0,449.0
+2026-07-24,Dupatta,Website,Pune,2,449,0.1,808.2
+2026-07-24,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-07-25,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-07-25,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-07-25,Kurti,Website,Pune,1,899,0.0,899.0
+2026-07-25,Jhumka,WhatsApp,Delhi,1,299,0.2,239.2
+2026-07-25,Dupatta,Offline,Jaipur,3,449,0.2,1077.6
+2026-07-25,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-07-25,Potli bag,WhatsApp,Pune,3,599,0.1,1617.3
+2026-07-25,Dupatta,Website,Kolkata,3,449,0.0,1347.0
+2026-07-25,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-07-25,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-07-25,Dupatta,Instagram,Bengaluru,2,449,0.2,718.4
+2026-07-25,Dupatta,Instagram,Delhi,3,449,0.2,1077.6
+2026-07-25,Kurti,Website,Delhi,2,899,0.1,1618.2
+2026-07-25,Potli bag,Instagram,Bengaluru,1,599,0.2,479.2
+2026-07-25,Dupatta,Instagram,Pune,3,449,0.2,1077.6
+2026-07-25,Saree,WhatsApp,Delhi,1,2499,0.0,2499.0
+2026-07-25,Dupatta,WhatsApp,Lucknow,3,449,0.0,1347.0
+2026-07-25,Kurti,WhatsApp,Pune,2,899,0.2,1438.4
+2026-07-25,Potli bag,Offline,Kolkata,2,599,0.0,1198.0
+2026-07-25,Saree,Instagram,Delhi,2,2499,0.1,4498.2
+2026-07-25,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-07-26,Potli bag,Website,Jaipur,3,599,0.0,1797.0
+2026-07-26,Saree,Offline,Pune,1,2499,0.0,2499.0
+2026-07-26,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-07-26,Dupatta,WhatsApp,Pune,3,449,0.2,1077.6
+2026-07-26,Jhumka,WhatsApp,Jaipur,1,299,0.2,239.2
+2026-07-26,Saree,Website,Kolkata,1,2499,0.0,2499.0
+2026-07-26,Saree,Offline,Delhi,3,2499,0.2,5997.6
+2026-07-26,Saree,Website,Lucknow,1,2499,0.2,1999.2
+2026-07-26,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-07-26,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-07-26,Kurti,Instagram,Pune,1,899,0.1,809.1
+2026-07-26,Dupatta,Website,Bengaluru,3,449,0.0,1347.0
+2026-07-26,Dupatta,Website,Pune,3,449,0.1,1212.3
+2026-07-26,Dupatta,WhatsApp,Delhi,1,449,0.2,359.2
+2026-07-26,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-07-26,Potli bag,WhatsApp,Jaipur,3,599,0.0,1797.0
+2026-07-26,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-07-26,Potli bag,Website,Bengaluru,2,599,0.2,958.4
+2026-07-26,Dupatta,WhatsApp,Lucknow,1,449,0.0,449.0
+2026-07-26,Dupatta,Instagram,Lucknow,1,449,0.1,404.1
+2026-07-27,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-07-27,Dupatta,Website,Jaipur,3,449,0.1,1212.3
+2026-07-27,Saree,Instagram,Pune,1,2499,0.2,1999.2
+2026-07-27,Saree,Website,Lucknow,1,2499,0.0,2499.0
+2026-07-27,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-07-27,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-07-27,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-07-27,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-07-27,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-07-28,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-07-28,Jhumka,Instagram,Lucknow,1,299,0.0,299.0
+2026-07-28,Jhumka,Instagram,Delhi,3,299,0.0,897.0
+2026-07-28,Potli bag,Instagram,Pune,3,599,0.2,1437.6
+2026-07-28,Saree,Instagram,Pune,1,2499,0.1,2249.1
+2026-07-28,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-07-28,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-07-28,Dupatta,Instagram,Jaipur,1,449,0.0,449.0
+2026-07-28,Potli bag,Website,Bengaluru,1,599,0.2,479.2
+2026-07-28,Kurti,WhatsApp,Pune,2,899,0.1,1618.2
+2026-07-28,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-07-28,Saree,Instagram,Delhi,1,2499,0.0,2499.0
+2026-07-28,Kurti,Instagram,Bengaluru,3,899,0.1,2427.3
+2026-07-28,Potli bag,WhatsApp,Lucknow,2,599,0.1,1078.2
+2026-07-29,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-07-29,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-07-29,Jhumka,Instagram,Pune,1,299,0.1,269.1
+2026-07-29,Jhumka,WhatsApp,Lucknow,3,299,0.1,807.3
+2026-07-29,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-07-29,Potli bag,WhatsApp,Delhi,1,599,0.0,599.0
+2026-07-29,Potli bag,Offline,Jaipur,3,599,0.2,1437.6
+2026-07-29,Potli bag,Instagram,Pune,1,599,0.0,599.0
+2026-07-29,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-07-29,Potli bag,Offline,Kolkata,1,599,0.1,539.1
+2026-07-29,Dupatta,Website,Pune,2,449,0.2,718.4
+2026-07-29,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-07-29,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-07-29,Jhumka,Website,Pune,2,299,0.2,478.4
+2026-07-29,Saree,Instagram,Delhi,3,2499,0.1,6747.3
+2026-07-30,Kurti,Website,Bengaluru,2,899,0.0,1798.0
+2026-07-30,Dupatta,WhatsApp,Lucknow,1,449,0.1,404.1
+2026-07-30,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-07-30,Jhumka,Website,Jaipur,2,299,0.2,478.4
+2026-07-30,Kurti,WhatsApp,Pune,1,899,0.1,809.1
+2026-07-30,Potli bag,Instagram,Delhi,3,599,0.2,1437.6
+2026-07-30,Saree,Instagram,Lucknow,1,2499,0.1,2249.1
+2026-07-30,Jhumka,Instagram,Jaipur,3,299,0.2,717.6
+2026-07-30,Dupatta,Website,Kolkata,2,449,0.2,718.4
+2026-07-30,Dupatta,Website,Pune,3,449,0.0,1347.0
+2026-07-30,Potli bag,WhatsApp,Jaipur,3,599,0.2,1437.6
+2026-07-30,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-07-31,Kurti,Website,Pune,1,899,0.0,899.0
+2026-07-31,Jhumka,Instagram,Lucknow,1,299,0.0,299.0
+2026-07-31,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-07-31,Kurti,Offline,Jaipur,2,899,0.0,1798.0
+2026-07-31,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-07-31,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-07-31,Dupatta,Website,Jaipur,3,449,0.0,1347.0
+2026-07-31,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-07-31,Saree,Instagram,Bengaluru,3,2499,0.1,6747.3
+2026-07-31,Kurti,Instagram,Kolkata,1,899,0.2,719.2
+2026-07-31,Dupatta,Instagram,Kolkata,2,449,0.2,718.4
+2026-07-31,Jhumka,Instagram,Pune,2,299,0.2,478.4
+2026-07-31,Kurti,Instagram,Delhi,3,899,0.2,2157.6
+2026-07-31,Dupatta,Website,Jaipur,3,449,0.2,1077.6
+2026-08-01,Dupatta,Website,Kolkata,1,449,0.1,404.1
+2026-08-01,Potli bag,WhatsApp,Bengaluru,3,599,0.1,1617.3
+2026-08-01,Dupatta,Offline,Pune,3,449,0.0,1347.0
+2026-08-01,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-08-01,Potli bag,Instagram,Kolkata,2,599,0.2,958.4
+2026-08-01,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-08-01,Saree,Instagram,Jaipur,1,2499,0.2,1999.2
+2026-08-01,Dupatta,Offline,Bengaluru,2,449,0.0,898.0
+2026-08-01,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-08-01,Potli bag,Instagram,Jaipur,3,599,0.2,1437.6
+2026-08-01,Kurti,Instagram,Bengaluru,3,899,0.0,2697.0
+2026-08-02,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-08-02,Dupatta,WhatsApp,Lucknow,2,449,0.0,898.0
+2026-08-02,Saree,WhatsApp,Bengaluru,1,2499,0.1,2249.1
+2026-08-02,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-08-02,Saree,Instagram,Jaipur,3,2499,0.2,5997.6
+2026-08-02,Kurti,WhatsApp,Jaipur,1,899,0.0,899.0
+2026-08-02,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-08-02,Potli bag,WhatsApp,Lucknow,1,599,0.2,479.2
+2026-08-02,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-08-02,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-08-02,Saree,Offline,Bengaluru,1,2499,0.0,2499.0
+2026-08-02,Kurti,WhatsApp,Jaipur,1,899,0.1,809.1
+2026-08-02,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-08-02,Jhumka,Website,Lucknow,1,299,0.1,269.1
+2026-08-02,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-08-02,Dupatta,Offline,Kolkata,1,449,0.0,449.0
+2026-08-02,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-08-02,Kurti,Instagram,Kolkata,2,899,0.1,1618.2
+2026-08-02,Saree,Instagram,Jaipur,3,2499,0.1,6747.3
+2026-08-02,Dupatta,Instagram,Delhi,1,449,0.2,359.2
+2026-08-03,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-08-03,Jhumka,Instagram,Bengaluru,3,299,0.1,807.3
+2026-08-03,Saree,Offline,Kolkata,3,2499,0.0,7497.0
+2026-08-03,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-08-03,Dupatta,WhatsApp,Kolkata,3,449,0.1,1212.3
+2026-08-03,Jhumka,Website,Kolkata,1,299,0.0,299.0
+2026-08-03,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-08-03,Kurti,Website,Pune,2,899,0.0,1798.0
+2026-08-03,Dupatta,Instagram,Lucknow,3,449,0.2,1077.6
+2026-08-03,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-08-03,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-08-03,Kurti,Instagram,Kolkata,2,899,0.0,1798.0
+2026-08-03,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-08-03,Kurti,WhatsApp,Lucknow,1,899,0.2,719.2
+2026-08-03,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-08-03,Kurti,WhatsApp,Jaipur,2,899,0.1,1618.2
+2026-08-04,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-08-04,Jhumka,Offline,Jaipur,2,299,0.0,598.0
+2026-08-04,Kurti,Offline,Jaipur,2,899,0.1,1618.2
+2026-08-04,Saree,Instagram,Kolkata,3,2499,0.1,6747.3
+2026-08-04,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-08-04,Kurti,Instagram,Kolkata,1,899,0.0,899.0
+2026-08-04,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-08-05,Potli bag,WhatsApp,Jaipur,1,599,0.2,479.2
+2026-08-05,Kurti,Offline,Lucknow,2,899,0.0,1798.0
+2026-08-05,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-08-05,Dupatta,WhatsApp,Bengaluru,1,449,0.2,359.2
+2026-08-05,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-08-05,Kurti,WhatsApp,Jaipur,2,899,0.1,1618.2
+2026-08-05,Kurti,Website,Jaipur,2,899,0.1,1618.2
+2026-08-05,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-08-05,Kurti,Instagram,Delhi,2,899,0.2,1438.4
+2026-08-05,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-08-05,Jhumka,Offline,Jaipur,2,299,0.0,598.0
+2026-08-05,Potli bag,Offline,Pune,3,599,0.0,1797.0
+2026-08-05,Potli bag,Website,Jaipur,3,599,0.0,1797.0
+2026-08-05,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-08-05,Potli bag,Offline,Jaipur,1,599,0.1,539.1
+2026-08-06,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-08-06,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-08-06,Dupatta,Website,Lucknow,1,449,0.0,449.0
+2026-08-06,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-08-06,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-08-06,Saree,Offline,Pune,3,2499,0.2,5997.6
+2026-08-06,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-08-06,Jhumka,WhatsApp,Pune,2,299,0.2,478.4
+2026-08-06,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-08-06,Saree,WhatsApp,Lucknow,3,2499,0.2,5997.6
+2026-08-06,Potli bag,Website,Lucknow,1,599,0.2,479.2
+2026-08-06,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-08-07,Kurti,Instagram,Kolkata,1,899,0.1,809.1
+2026-08-07,Dupatta,Instagram,Delhi,1,449,0.2,359.2
+2026-08-07,Kurti,Instagram,Lucknow,3,899,0.0,2697.0
+2026-08-07,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-08-07,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-08-07,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-08-07,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-08-07,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-08-07,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-08-07,Kurti,Website,Jaipur,3,899,0.0,2697.0
+2026-08-07,Potli bag,Instagram,Delhi,2,599,0.2,958.4
+2026-08-07,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-08-07,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-08-07,Saree,WhatsApp,Pune,2,2499,0.1,4498.2
+2026-08-07,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-08-07,Potli bag,WhatsApp,Delhi,2,599,0.0,1198.0
+2026-08-08,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-08-08,Kurti,Offline,Lucknow,3,899,0.2,2157.6
+2026-08-08,Saree,WhatsApp,Jaipur,1,2499,0.2,1999.2
+2026-08-08,Dupatta,WhatsApp,Kolkata,1,449,0.1,404.1
+2026-08-08,Kurti,Website,Pune,1,899,0.2,719.2
+2026-08-08,Jhumka,Instagram,Lucknow,3,299,0.1,807.3
+2026-08-08,Potli bag,Website,Bengaluru,1,599,0.2,479.2
+2026-08-08,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-08-08,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-08-08,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-08-08,Potli bag,Website,Kolkata,1,599,0.0,599.0
+2026-08-08,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-08-08,Potli bag,Instagram,Delhi,2,599,0.1,1078.2
+2026-08-08,Dupatta,Instagram,Lucknow,3,449,0.1,1212.3
+2026-08-08,Potli bag,Website,Lucknow,1,599,0.1,539.1
+2026-08-08,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-08-08,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-08-08,Jhumka,Website,Lucknow,1,299,0.1,269.1
+2026-08-08,Potli bag,Website,Jaipur,2,599,0.0,1198.0
+2026-08-09,Jhumka,Website,Pune,3,299,0.2,717.6
+2026-08-09,Kurti,WhatsApp,Kolkata,2,899,0.0,1798.0
+2026-08-09,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-08-09,Jhumka,Instagram,Bengaluru,1,299,0.2,239.2
+2026-08-09,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-08-09,Kurti,Instagram,Kolkata,2,899,0.1,1618.2
+2026-08-09,Jhumka,Instagram,Lucknow,1,299,0.0,299.0
+2026-08-09,Saree,Instagram,Delhi,1,2499,0.0,2499.0
+2026-08-09,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-08-10,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-08-10,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-08-10,Jhumka,Offline,Bengaluru,3,299,0.0,897.0
+2026-08-10,Jhumka,Instagram,Jaipur,1,299,0.1,269.1
+2026-08-10,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-08-10,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-08-10,Dupatta,Website,Bengaluru,1,449,0.0,449.0
+2026-08-10,Dupatta,Instagram,Pune,2,449,0.1,808.2
+2026-08-10,Potli bag,Instagram,Lucknow,1,599,0.2,479.2
+2026-08-10,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-08-10,Saree,Instagram,Delhi,3,2499,0.1,6747.3
+2026-08-10,Jhumka,WhatsApp,Kolkata,2,299,0.1,538.2
+2026-08-10,Potli bag,Instagram,Lucknow,3,599,0.2,1437.6
+2026-08-10,Jhumka,Website,Jaipur,2,299,0.0,598.0
+2026-08-10,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-08-11,Potli bag,Website,Bengaluru,2,599,0.0,1198.0
+2026-08-11,Dupatta,WhatsApp,Pune,3,449,0.0,1347.0
+2026-08-11,Saree,Instagram,Lucknow,2,2499,0.1,4498.2
+2026-08-11,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-08-11,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-08-11,Saree,Website,Jaipur,2,2499,0.0,4998.0
+2026-08-11,Jhumka,Website,Bengaluru,1,299,0.0,299.0
+2026-08-11,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-08-11,Dupatta,Offline,Jaipur,2,449,0.0,898.0
+2026-08-11,Dupatta,Instagram,Kolkata,1,449,0.2,359.2
+2026-08-11,Jhumka,WhatsApp,Jaipur,3,299,0.2,717.6
+2026-08-11,Dupatta,Website,Delhi,2,449,0.1,808.2
+2026-08-11,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-08-11,Potli bag,Instagram,Delhi,2,599,0.0,1198.0
+2026-08-12,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-08-12,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-08-12,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-08-12,Saree,Offline,Pune,2,2499,0.2,3998.4
+2026-08-12,Jhumka,Instagram,Lucknow,1,299,0.0,299.0
+2026-08-12,Kurti,Instagram,Kolkata,2,899,0.2,1438.4
+2026-08-12,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-08-12,Potli bag,Website,Lucknow,3,599,0.0,1797.0
+2026-08-12,Potli bag,Instagram,Bengaluru,2,599,0.1,1078.2
+2026-08-12,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-08-13,Potli bag,Website,Kolkata,2,599,0.1,1078.2
+2026-08-13,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-08-13,Potli bag,WhatsApp,Kolkata,2,599,0.1,1078.2
+2026-08-13,Potli bag,WhatsApp,Jaipur,1,599,0.2,479.2
+2026-08-13,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-08-13,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-08-13,Kurti,Website,Pune,3,899,0.0,2697.0
+2026-08-13,Potli bag,WhatsApp,Pune,1,599,0.0,599.0
+2026-08-13,Dupatta,WhatsApp,Lucknow,1,449,0.0,449.0
+2026-08-13,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-08-13,Kurti,Offline,Bengaluru,1,899,0.1,809.1
+2026-08-13,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-08-13,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-08-13,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-08-13,Saree,WhatsApp,Pune,3,2499,0.1,6747.3
+2026-08-14,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-08-14,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-08-14,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-08-14,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-08-14,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-08-14,Kurti,Offline,Bengaluru,1,899,0.2,719.2
+2026-08-14,Dupatta,WhatsApp,Lucknow,1,449,0.2,359.2
+2026-08-14,Saree,Website,Lucknow,3,2499,0.0,7497.0
+2026-08-14,Saree,Website,Jaipur,1,2499,0.2,1999.2
+2026-08-14,Potli bag,Instagram,Bengaluru,2,599,0.1,1078.2
+2026-08-14,Jhumka,Instagram,Delhi,1,299,0.2,239.2
+2026-08-14,Jhumka,WhatsApp,Pune,1,299,0.0,299.0
+2026-08-15,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-08-15,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-08-15,Dupatta,WhatsApp,Pune,3,449,0.0,1347.0
+2026-08-15,Saree,WhatsApp,Delhi,3,2499,0.1,6747.3
+2026-08-15,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-08-15,Saree,WhatsApp,Kolkata,2,2499,0.1,4498.2
+2026-08-15,Potli bag,Instagram,Jaipur,1,599,0.1,539.1
+2026-08-15,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-08-15,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-08-15,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-08-15,Kurti,WhatsApp,Bengaluru,3,899,0.1,2427.3
+2026-08-15,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-08-15,Saree,Instagram,Delhi,1,2499,0.0,2499.0
+2026-08-15,Saree,Instagram,Delhi,2,2499,0.2,3998.4
+2026-08-15,Dupatta,Instagram,Lucknow,2,449,0.1,808.2
+2026-08-15,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-08-15,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-08-15,Saree,WhatsApp,Kolkata,2,2499,0.1,4498.2
+2026-08-15,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-08-15,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-08-16,Potli bag,WhatsApp,Pune,2,599,0.2,958.4
+2026-08-16,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-08-16,Kurti,Instagram,Delhi,2,899,0.1,1618.2
+2026-08-16,Kurti,Website,Kolkata,3,899,0.0,2697.0
+2026-08-16,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-08-16,Dupatta,WhatsApp,Pune,1,449,0.2,359.2
+2026-08-16,Dupatta,Instagram,Bengaluru,1,449,0.2,359.2
+2026-08-16,Saree,Website,Jaipur,1,2499,0.1,2249.1
+2026-08-16,Kurti,Offline,Lucknow,3,899,0.0,2697.0
+2026-08-16,Jhumka,Website,Kolkata,3,299,0.0,897.0
+2026-08-16,Dupatta,WhatsApp,Kolkata,2,449,0.2,718.4
+2026-08-16,Potli bag,Website,Jaipur,3,599,0.1,1617.3
+2026-08-16,Jhumka,Offline,Jaipur,3,299,0.0,897.0
+2026-08-16,Kurti,Instagram,Jaipur,2,899,0.2,1438.4
+2026-08-16,Kurti,Instagram,Pune,3,899,0.1,2427.3
+2026-08-17,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-08-17,Potli bag,Offline,Pune,3,599,0.2,1437.6
+2026-08-17,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-08-17,Jhumka,Website,Pune,2,299,0.0,598.0
+2026-08-17,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-08-17,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-08-17,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-08-17,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-08-17,Kurti,Offline,Delhi,2,899,0.0,1798.0
+2026-08-17,Kurti,Instagram,Jaipur,2,899,0.1,1618.2
+2026-08-17,Jhumka,Instagram,Bengaluru,2,299,0.2,478.4
+2026-08-17,Saree,WhatsApp,Delhi,1,2499,0.0,2499.0
+2026-08-17,Saree,Instagram,Lucknow,3,2499,0.1,6747.3
+2026-08-17,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-08-17,Dupatta,Website,Lucknow,1,449,0.0,449.0
+2026-08-18,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-08-18,Jhumka,WhatsApp,Bengaluru,1,299,0.1,269.1
+2026-08-18,Potli bag,Website,Delhi,1,599,0.0,599.0
+2026-08-18,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-08-18,Dupatta,WhatsApp,Kolkata,3,449,0.0,1347.0
+2026-08-18,Jhumka,Offline,Bengaluru,2,299,0.1,538.2
+2026-08-18,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-08-18,Saree,Instagram,Pune,3,2499,0.0,7497.0
+2026-08-18,Potli bag,Website,Bengaluru,1,599,0.1,539.1
+2026-08-18,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-08-18,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-08-18,Dupatta,WhatsApp,Delhi,3,449,0.2,1077.6
+2026-08-18,Kurti,Instagram,Kolkata,2,899,0.0,1798.0
+2026-08-18,Jhumka,Website,Jaipur,3,299,0.0,897.0
+2026-08-18,Saree,Website,Kolkata,1,2499,0.2,1999.2
+2026-08-18,Potli bag,Website,Jaipur,1,599,0.0,599.0
+2026-08-19,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-08-19,Dupatta,WhatsApp,Bengaluru,2,449,0.2,718.4
+2026-08-19,Kurti,Instagram,Lucknow,2,899,0.1,1618.2
+2026-08-19,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-08-19,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-08-19,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-08-19,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-08-19,Dupatta,Website,Jaipur,3,449,0.2,1077.6
+2026-08-20,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-08-20,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-08-20,Potli bag,Website,Lucknow,2,599,0.2,958.4
+2026-08-20,Kurti,WhatsApp,Bengaluru,1,899,0.2,719.2
+2026-08-20,Potli bag,Offline,Kolkata,3,599,0.0,1797.0
+2026-08-20,Kurti,WhatsApp,Lucknow,2,899,0.0,1798.0
+2026-08-20,Potli bag,Website,Lucknow,2,599,0.0,1198.0
+2026-08-20,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-08-20,Kurti,Instagram,Delhi,3,899,0.1,2427.3
+2026-08-20,Saree,Website,Kolkata,3,2499,0.0,7497.0
+2026-08-20,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-08-20,Dupatta,WhatsApp,Pune,2,449,0.1,808.2
+2026-08-21,Potli bag,Instagram,Pune,3,599,0.1,1617.3
+2026-08-21,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-08-21,Jhumka,Instagram,Delhi,3,299,0.1,807.3
+2026-08-21,Jhumka,Website,Delhi,3,299,0.0,897.0
+2026-08-21,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-08-21,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-08-21,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-08-21,Kurti,WhatsApp,Jaipur,1,899,0.2,719.2
+2026-08-21,Dupatta,Instagram,Bengaluru,2,449,0.1,808.2
+2026-08-21,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-08-21,Kurti,Website,Bengaluru,3,899,0.0,2697.0
+2026-08-21,Potli bag,Website,Lucknow,1,599,0.1,539.1
+2026-08-21,Dupatta,Instagram,Pune,1,449,0.2,359.2
+2026-08-21,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-08-21,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-08-21,Dupatta,WhatsApp,Jaipur,1,449,0.2,359.2
+2026-08-21,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-08-22,Dupatta,WhatsApp,Kolkata,2,449,0.2,718.4
+2026-08-22,Dupatta,WhatsApp,Pune,1,449,0.1,404.1
+2026-08-22,Jhumka,Offline,Delhi,1,299,0.0,299.0
+2026-08-22,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-08-22,Jhumka,Instagram,Lucknow,2,299,0.1,538.2
+2026-08-22,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-08-22,Potli bag,Instagram,Jaipur,3,599,0.2,1437.6
+2026-08-22,Kurti,Instagram,Kolkata,3,899,0.2,2157.6
+2026-08-22,Dupatta,Instagram,Pune,3,449,0.2,1077.6
+2026-08-22,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-08-22,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-08-22,Kurti,WhatsApp,Pune,3,899,0.1,2427.3
+2026-08-22,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-08-22,Kurti,WhatsApp,Pune,3,899,0.1,2427.3
+2026-08-22,Kurti,Instagram,Jaipur,2,899,0.2,1438.4
+2026-08-22,Saree,WhatsApp,Jaipur,2,2499,0.1,4498.2
+2026-08-23,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-08-23,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-08-23,Saree,Instagram,Bengaluru,1,2499,0.2,1999.2
+2026-08-23,Jhumka,Instagram,Delhi,2,299,0.2,478.4
+2026-08-23,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-08-23,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-08-23,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-08-23,Saree,WhatsApp,Kolkata,3,2499,0.1,6747.3
+2026-08-23,Dupatta,Website,Jaipur,2,449,0.0,898.0
+2026-08-23,Jhumka,WhatsApp,Bengaluru,3,299,0.0,897.0
+2026-08-23,Kurti,WhatsApp,Lucknow,1,899,0.0,899.0
+2026-08-23,Dupatta,WhatsApp,Kolkata,2,449,0.1,808.2
+2026-08-23,Dupatta,WhatsApp,Pune,1,449,0.2,359.2
+2026-08-23,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-08-23,Dupatta,Instagram,Pune,2,449,0.2,718.4
+2026-08-23,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-08-23,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-08-23,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-08-23,Dupatta,WhatsApp,Jaipur,3,449,0.1,1212.3
+2026-08-23,Dupatta,WhatsApp,Jaipur,2,449,0.2,718.4
+2026-08-23,Kurti,Instagram,Pune,3,899,0.2,2157.6
+2026-08-23,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-08-23,Kurti,WhatsApp,Delhi,2,899,0.2,1438.4
+2026-08-23,Saree,Instagram,Kolkata,3,2499,0.1,6747.3
+2026-08-24,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-08-24,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-08-24,Kurti,WhatsApp,Delhi,3,899,0.0,2697.0
+2026-08-24,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-08-24,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-08-24,Jhumka,WhatsApp,Delhi,2,299,0.2,478.4
+2026-08-24,Saree,WhatsApp,Bengaluru,1,2499,0.2,1999.2
+2026-08-24,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-08-24,Potli bag,Website,Bengaluru,1,599,0.1,539.1
+2026-08-24,Kurti,WhatsApp,Kolkata,1,899,0.1,809.1
+2026-08-24,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-08-24,Kurti,Instagram,Kolkata,1,899,0.2,719.2
+2026-08-25,Jhumka,Website,Pune,3,299,0.2,717.6
+2026-08-25,Jhumka,WhatsApp,Pune,2,299,0.1,538.2
+2026-08-25,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-08-25,Saree,Website,Lucknow,3,2499,0.0,7497.0
+2026-08-25,Dupatta,WhatsApp,Jaipur,2,449,0.2,718.4
+2026-08-25,Potli bag,Instagram,Delhi,2,599,0.2,958.4
+2026-08-25,Jhumka,Website,Kolkata,1,299,0.2,239.2
+2026-08-25,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-08-25,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-08-25,Kurti,Website,Bengaluru,1,899,0.0,899.0
+2026-08-25,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-08-25,Potli bag,WhatsApp,Kolkata,1,599,0.2,479.2
+2026-08-25,Kurti,Website,Bengaluru,2,899,0.2,1438.4
+2026-08-25,Jhumka,Website,Pune,1,299,0.1,269.1
+2026-08-25,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-08-25,Jhumka,Website,Jaipur,1,299,0.0,299.0
+2026-08-25,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-08-25,Jhumka,Instagram,Delhi,3,299,0.0,897.0
+2026-08-25,Jhumka,Website,Kolkata,3,299,0.2,717.6
+2026-08-26,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-08-26,Dupatta,Website,Kolkata,3,449,0.0,1347.0
+2026-08-26,Jhumka,WhatsApp,Bengaluru,1,299,0.0,299.0
+2026-08-26,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-08-26,Saree,Website,Pune,3,2499,0.0,7497.0
+2026-08-26,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-08-26,Kurti,Offline,Bengaluru,1,899,0.2,719.2
+2026-08-26,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-08-26,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-08-26,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-08-26,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-08-26,Saree,Offline,Kolkata,3,2499,0.0,7497.0
+2026-08-26,Potli bag,Instagram,Lucknow,2,599,0.1,1078.2
+2026-08-26,Potli bag,Website,Lucknow,2,599,0.1,1078.2
+2026-08-26,Potli bag,Instagram,Bengaluru,3,599,0.0,1797.0
+2026-08-26,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-08-27,Saree,Offline,Delhi,3,2499,0.2,5997.6
+2026-08-27,Potli bag,Website,Lucknow,3,599,0.0,1797.0
+2026-08-27,Dupatta,Website,Kolkata,1,449,0.0,449.0
+2026-08-27,Potli bag,WhatsApp,Kolkata,3,599,0.1,1617.3
+2026-08-27,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-08-27,Kurti,WhatsApp,Kolkata,1,899,0.2,719.2
+2026-08-27,Jhumka,WhatsApp,Bengaluru,2,299,0.1,538.2
+2026-08-27,Dupatta,WhatsApp,Lucknow,2,449,0.2,718.4
+2026-08-27,Jhumka,WhatsApp,Pune,3,299,0.1,807.3
+2026-08-27,Saree,Website,Kolkata,3,2499,0.2,5997.6
+2026-08-27,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-08-27,Jhumka,Website,Kolkata,1,299,0.1,269.1
+2026-08-27,Dupatta,Instagram,Kolkata,2,449,0.1,808.2
+2026-08-27,Dupatta,WhatsApp,Lucknow,1,449,0.0,449.0
+2026-08-27,Dupatta,Website,Bengaluru,3,449,0.0,1347.0
+2026-08-27,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-08-28,Saree,WhatsApp,Kolkata,2,2499,0.0,4998.0
+2026-08-28,Potli bag,WhatsApp,Jaipur,1,599,0.2,479.2
+2026-08-28,Jhumka,Website,Delhi,2,299,0.0,598.0
+2026-08-28,Potli bag,Instagram,Lucknow,2,599,0.2,958.4
+2026-08-28,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-08-28,Jhumka,Website,Lucknow,2,299,0.0,598.0
+2026-08-28,Jhumka,Instagram,Jaipur,3,299,0.2,717.6
+2026-08-28,Potli bag,Website,Bengaluru,3,599,0.1,1617.3
+2026-08-28,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-08-28,Jhumka,WhatsApp,Pune,3,299,0.2,717.6
+2026-08-28,Dupatta,WhatsApp,Jaipur,2,449,0.2,718.4
+2026-08-28,Dupatta,Website,Pune,1,449,0.0,449.0
+2026-08-28,Potli bag,Website,Jaipur,3,599,0.0,1797.0
+2026-08-28,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-08-28,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-08-28,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-08-29,Kurti,Instagram,Jaipur,3,899,0.2,2157.6
+2026-08-29,Saree,Offline,Kolkata,1,2499,0.0,2499.0
+2026-08-29,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-08-29,Dupatta,Instagram,Bengaluru,1,449,0.1,404.1
+2026-08-29,Kurti,WhatsApp,Pune,3,899,0.2,2157.6
+2026-08-29,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-08-29,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-08-29,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-08-29,Jhumka,WhatsApp,Kolkata,1,299,0.1,269.1
+2026-08-29,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-08-29,Dupatta,Offline,Delhi,1,449,0.1,404.1
+2026-08-29,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-08-29,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-08-29,Potli bag,Instagram,Bengaluru,3,599,0.1,1617.3
+2026-08-29,Dupatta,Website,Delhi,2,449,0.1,808.2
+2026-08-29,Potli bag,Instagram,Pune,1,599,0.0,599.0
+2026-08-29,Dupatta,Website,Kolkata,3,449,0.1,1212.3
+2026-08-29,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-08-29,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-08-30,Dupatta,Website,Pune,2,449,0.1,808.2
+2026-08-30,Saree,Instagram,Pune,3,2499,0.1,6747.3
+2026-08-30,Saree,Instagram,Delhi,3,2499,0.2,5997.6
+2026-08-30,Kurti,Instagram,Kolkata,1,899,0.0,899.0
+2026-08-30,Jhumka,WhatsApp,Lucknow,2,299,0.2,478.4
+2026-08-30,Dupatta,WhatsApp,Delhi,2,449,0.2,718.4
+2026-08-30,Saree,Instagram,Pune,2,2499,0.2,3998.4
+2026-08-30,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-08-30,Kurti,Instagram,Lucknow,1,899,0.2,719.2
+2026-08-30,Potli bag,Website,Jaipur,3,599,0.0,1797.0
+2026-08-30,Kurti,Website,Pune,1,899,0.0,899.0
+2026-08-30,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-08-30,Dupatta,Instagram,Bengaluru,3,449,0.0,1347.0
+2026-08-30,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-08-30,Kurti,WhatsApp,Pune,2,899,0.2,1438.4
+2026-08-30,Saree,WhatsApp,Lucknow,3,2499,0.1,6747.3
+2026-08-30,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-08-30,Dupatta,Instagram,Lucknow,3,449,0.2,1077.6
+2026-08-30,Dupatta,Offline,Bengaluru,3,449,0.1,1212.3
+2026-08-31,Jhumka,Website,Kolkata,2,299,0.2,478.4
+2026-08-31,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-08-31,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-08-31,Kurti,Website,Pune,2,899,0.1,1618.2
+2026-08-31,Saree,Website,Bengaluru,3,2499,0.0,7497.0
+2026-08-31,Potli bag,WhatsApp,Delhi,3,599,0.2,1437.6
+2026-08-31,Dupatta,Instagram,Delhi,1,449,0.1,404.1
+2026-08-31,Dupatta,Offline,Kolkata,3,449,0.0,1347.0
+2026-08-31,Dupatta,Instagram,Bengaluru,3,449,0.0,1347.0
+2026-08-31,Jhumka,Website,Bengaluru,3,299,0.0,897.0
+2026-08-31,Jhumka,Offline,Delhi,1,299,0.1,269.1
+2026-08-31,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-08-31,Saree,Offline,Delhi,1,2499,0.0,2499.0
+2026-08-31,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-08-31,Jhumka,WhatsApp,Lucknow,1,299,0.2,239.2
+2026-09-01,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-09-01,Jhumka,Website,Pune,2,299,0.0,598.0
+2026-09-01,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-09-01,Potli bag,Website,Pune,1,599,0.1,539.1
+2026-09-01,Kurti,WhatsApp,Pune,3,899,0.1,2427.3
+2026-09-01,Saree,Instagram,Lucknow,1,2499,0.2,1999.2
+2026-09-01,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-09-01,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-09-01,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-09-01,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-09-01,Jhumka,Website,Delhi,2,299,0.2,478.4
+2026-09-01,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-09-01,Jhumka,Website,Delhi,1,299,0.2,239.2
+2026-09-02,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-09-02,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-09-02,Kurti,Instagram,Lucknow,3,899,0.1,2427.3
+2026-09-02,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-09-02,Dupatta,Website,Jaipur,2,449,0.1,808.2
+2026-09-02,Saree,Offline,Lucknow,3,2499,0.1,6747.3
+2026-09-02,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-09-02,Potli bag,Instagram,Delhi,2,599,0.1,1078.2
+2026-09-02,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-09-02,Kurti,Instagram,Lucknow,3,899,0.0,2697.0
+2026-09-02,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-09-02,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-09-02,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-09-02,Potli bag,Instagram,Pune,1,599,0.2,479.2
+2026-09-03,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-09-03,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-09-03,Potli bag,Instagram,Lucknow,1,599,0.0,599.0
+2026-09-03,Jhumka,WhatsApp,Delhi,1,299,0.1,269.1
+2026-09-03,Saree,Website,Pune,2,2499,0.1,4498.2
+2026-09-03,Jhumka,Website,Bengaluru,1,299,0.1,269.1
+2026-09-03,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-09-03,Potli bag,Instagram,Lucknow,1,599,0.2,479.2
+2026-09-03,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-09-03,Saree,WhatsApp,Kolkata,3,2499,0.0,7497.0
+2026-09-03,Potli bag,Website,Pune,2,599,0.0,1198.0
+2026-09-04,Jhumka,WhatsApp,Lucknow,2,299,0.2,478.4
+2026-09-04,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-09-04,Jhumka,Offline,Lucknow,2,299,0.1,538.2
+2026-09-04,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-09-04,Potli bag,WhatsApp,Delhi,2,599,0.0,1198.0
+2026-09-04,Saree,Instagram,Pune,3,2499,0.1,6747.3
+2026-09-04,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-09-04,Jhumka,Website,Pune,2,299,0.1,538.2
+2026-09-04,Saree,WhatsApp,Jaipur,1,2499,0.2,1999.2
+2026-09-04,Jhumka,Website,Lucknow,1,299,0.0,299.0
+2026-09-04,Jhumka,Offline,Lucknow,1,299,0.2,239.2
+2026-09-04,Kurti,WhatsApp,Lucknow,2,899,0.0,1798.0
+2026-09-04,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-09-04,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-09-04,Kurti,Website,Delhi,3,899,0.0,2697.0
+2026-09-04,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-09-05,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-09-05,Dupatta,WhatsApp,Jaipur,2,449,0.2,718.4
+2026-09-05,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-09-05,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-09-05,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-09-05,Potli bag,Instagram,Jaipur,3,599,0.2,1437.6
+2026-09-05,Kurti,WhatsApp,Lucknow,1,899,0.1,809.1
+2026-09-05,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-09-05,Kurti,Website,Delhi,1,899,0.0,899.0
+2026-09-05,Kurti,Offline,Delhi,1,899,0.0,899.0
+2026-09-05,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-09-05,Kurti,WhatsApp,Jaipur,3,899,0.0,2697.0
+2026-09-05,Saree,Offline,Bengaluru,2,2499,0.0,4998.0
+2026-09-06,Potli bag,Website,Jaipur,2,599,0.1,1078.2
+2026-09-06,Dupatta,Website,Delhi,1,449,0.1,404.1
+2026-09-06,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-09-06,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-09-06,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-09-06,Potli bag,Website,Delhi,1,599,0.0,599.0
+2026-09-06,Jhumka,Website,Pune,1,299,0.1,269.1
+2026-09-06,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-09-06,Jhumka,Website,Delhi,2,299,0.0,598.0
+2026-09-06,Kurti,Offline,Pune,2,899,0.1,1618.2
+2026-09-06,Saree,Website,Bengaluru,2,2499,0.0,4998.0
+2026-09-06,Potli bag,Offline,Bengaluru,3,599,0.2,1437.6
+2026-09-06,Jhumka,Website,Kolkata,1,299,0.0,299.0
+2026-09-06,Potli bag,Offline,Jaipur,2,599,0.1,1078.2
+2026-09-06,Potli bag,WhatsApp,Lucknow,1,599,0.2,479.2
+2026-09-06,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-09-06,Kurti,Instagram,Bengaluru,3,899,0.0,2697.0
+2026-09-06,Kurti,Website,Delhi,3,899,0.2,2157.6
+2026-09-06,Kurti,WhatsApp,Delhi,3,899,0.2,2157.6
+2026-09-06,Kurti,Website,Pune,2,899,0.0,1798.0
+2026-09-07,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-09-07,Saree,Instagram,Pune,1,2499,0.1,2249.1
+2026-09-07,Potli bag,WhatsApp,Pune,3,599,0.1,1617.3
+2026-09-07,Kurti,Offline,Lucknow,1,899,0.0,899.0
+2026-09-07,Saree,Website,Lucknow,2,2499,0.0,4998.0
+2026-09-07,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-09-07,Dupatta,Website,Kolkata,1,449,0.0,449.0
+2026-09-07,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-09-07,Dupatta,Offline,Pune,1,449,0.2,359.2
+2026-09-07,Dupatta,WhatsApp,Lucknow,3,449,0.0,1347.0
+2026-09-07,Potli bag,Website,Bengaluru,3,599,0.1,1617.3
+2026-09-07,Saree,WhatsApp,Jaipur,2,2499,0.1,4498.2
+2026-09-07,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-09-07,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-09-08,Potli bag,WhatsApp,Lucknow,3,599,0.2,1437.6
+2026-09-08,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-09-08,Dupatta,Offline,Delhi,3,449,0.0,1347.0
+2026-09-08,Saree,Instagram,Jaipur,3,2499,0.2,5997.6
+2026-09-08,Saree,Instagram,Bengaluru,1,2499,0.1,2249.1
+2026-09-08,Potli bag,Website,Kolkata,2,599,0.0,1198.0
+2026-09-08,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-09-08,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-09-08,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-09-08,Dupatta,Instagram,Jaipur,2,449,0.2,718.4
+2026-09-08,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-09-08,Dupatta,Website,Pune,1,449,0.0,449.0
+2026-09-08,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-09-08,Kurti,Website,Jaipur,2,899,0.0,1798.0
+2026-09-09,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-09-09,Saree,Offline,Lucknow,3,2499,0.0,7497.0
+2026-09-09,Dupatta,WhatsApp,Delhi,2,449,0.2,718.4
+2026-09-09,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-09-09,Kurti,WhatsApp,Pune,2,899,0.1,1618.2
+2026-09-09,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-09-09,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-09-09,Potli bag,WhatsApp,Lucknow,1,599,0.2,479.2
+2026-09-09,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-09-09,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-09-09,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-09-09,Jhumka,Website,Bengaluru,3,299,0.1,807.3
+2026-09-09,Potli bag,WhatsApp,Delhi,1,599,0.0,599.0
+2026-09-09,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-09-09,Kurti,WhatsApp,Jaipur,1,899,0.0,899.0
+2026-09-09,Dupatta,Website,Kolkata,1,449,0.0,449.0
+2026-09-09,Jhumka,WhatsApp,Kolkata,2,299,0.0,598.0
+2026-09-09,Kurti,Website,Jaipur,3,899,0.2,2157.6
+2026-09-09,Saree,WhatsApp,Jaipur,3,2499,0.1,6747.3
+2026-09-09,Dupatta,Website,Jaipur,3,449,0.0,1347.0
+2026-09-09,Jhumka,WhatsApp,Bengaluru,3,299,0.1,807.3
+2026-09-09,Kurti,WhatsApp,Bengaluru,2,899,0.1,1618.2
+2026-09-09,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-09-09,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-09-10,Potli bag,Offline,Kolkata,3,599,0.1,1617.3
+2026-09-10,Jhumka,WhatsApp,Jaipur,3,299,0.2,717.6
+2026-09-10,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-09-10,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-09-10,Saree,WhatsApp,Delhi,3,2499,0.0,7497.0
+2026-09-10,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-09-10,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-09-10,Dupatta,Instagram,Kolkata,3,449,0.2,1077.6
+2026-09-10,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-09-10,Potli bag,Instagram,Kolkata,2,599,0.1,1078.2
+2026-09-10,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-09-10,Kurti,WhatsApp,Kolkata,2,899,0.1,1618.2
+2026-09-10,Jhumka,Offline,Jaipur,1,299,0.0,299.0
+2026-09-10,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-09-10,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-09-10,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-09-10,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-09-11,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-09-11,Kurti,Website,Kolkata,2,899,0.2,1438.4
+2026-09-11,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-09-11,Jhumka,Instagram,Bengaluru,1,299,0.0,299.0
+2026-09-11,Kurti,Instagram,Kolkata,2,899,0.0,1798.0
+2026-09-11,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-09-12,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-09-12,Dupatta,WhatsApp,Jaipur,3,449,0.1,1212.3
+2026-09-12,Dupatta,Offline,Delhi,2,449,0.0,898.0
+2026-09-12,Dupatta,WhatsApp,Kolkata,2,449,0.2,718.4
+2026-09-12,Jhumka,Website,Pune,2,299,0.1,538.2
+2026-09-12,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-09-12,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-09-12,Kurti,Offline,Kolkata,2,899,0.2,1438.4
+2026-09-12,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-09-12,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-09-12,Jhumka,Offline,Delhi,1,299,0.0,299.0
+2026-09-13,Jhumka,WhatsApp,Kolkata,1,299,0.1,269.1
+2026-09-13,Saree,Instagram,Bengaluru,3,2499,0.2,5997.6
+2026-09-13,Jhumka,Instagram,Jaipur,1,299,0.2,239.2
+2026-09-13,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-09-13,Potli bag,Website,Delhi,1,599,0.0,599.0
+2026-09-13,Kurti,Instagram,Bengaluru,1,899,0.1,809.1
+2026-09-13,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-09-13,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-09-13,Kurti,WhatsApp,Delhi,3,899,0.1,2427.3
+2026-09-13,Kurti,Instagram,Jaipur,3,899,0.2,2157.6
+2026-09-13,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-09-13,Kurti,Offline,Delhi,2,899,0.1,1618.2
+2026-09-13,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-09-13,Saree,Instagram,Kolkata,3,2499,0.1,6747.3
+2026-09-13,Jhumka,Website,Pune,3,299,0.1,807.3
+2026-09-13,Dupatta,Website,Delhi,1,449,0.0,449.0
+2026-09-13,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-09-13,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-09-13,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-09-13,Saree,Instagram,Bengaluru,1,2499,0.2,1999.2
+2026-09-13,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-09-13,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-09-13,Kurti,Website,Bengaluru,2,899,0.1,1618.2
+2026-09-14,Jhumka,Website,Delhi,3,299,0.0,897.0
+2026-09-14,Potli bag,Website,Kolkata,1,599,0.1,539.1
+2026-09-14,Potli bag,Website,Jaipur,2,599,0.0,1198.0
+2026-09-14,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-09-14,Dupatta,Instagram,Kolkata,2,449,0.1,808.2
+2026-09-14,Saree,Instagram,Bengaluru,2,2499,0.2,3998.4
+2026-09-14,Kurti,Website,Pune,2,899,0.0,1798.0
+2026-09-14,Dupatta,Instagram,Kolkata,2,449,0.0,898.0
+2026-09-14,Saree,Website,Bengaluru,2,2499,0.0,4998.0
+2026-09-14,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-09-14,Jhumka,Website,Bengaluru,1,299,0.0,299.0
+2026-09-14,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-09-14,Dupatta,WhatsApp,Kolkata,1,449,0.0,449.0
+2026-09-15,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-09-15,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-09-15,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-09-15,Jhumka,WhatsApp,Jaipur,3,299,0.2,717.6
+2026-09-15,Kurti,Website,Bengaluru,2,899,0.0,1798.0
+2026-09-15,Dupatta,WhatsApp,Pune,3,449,0.0,1347.0
+2026-09-15,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-09-15,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-09-15,Saree,Website,Jaipur,1,2499,0.0,2499.0
+2026-09-15,Kurti,WhatsApp,Kolkata,2,899,0.1,1618.2
+2026-09-15,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-09-16,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-09-16,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-09-16,Jhumka,Instagram,Delhi,1,299,0.2,239.2
+2026-09-16,Saree,WhatsApp,Pune,2,2499,0.0,4998.0
+2026-09-16,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-09-16,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-09-16,Potli bag,Website,Kolkata,1,599,0.0,599.0
+2026-09-16,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-09-16,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-09-16,Jhumka,Website,Pune,1,299,0.2,239.2
+2026-09-16,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-09-16,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-09-16,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-09-16,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-09-16,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-09-16,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-09-16,Kurti,Website,Lucknow,2,899,0.0,1798.0
+2026-09-16,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-09-16,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-09-16,Kurti,Website,Pune,2,899,0.0,1798.0
+2026-09-16,Potli bag,Instagram,Pune,1,599,0.0,599.0
+2026-09-16,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-09-16,Potli bag,Website,Bengaluru,2,599,0.0,1198.0
+2026-09-16,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-09-16,Potli bag,Instagram,Jaipur,3,599,0.1,1617.3
+2026-09-16,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-09-16,Saree,Instagram,Pune,1,2499,0.1,2249.1
+2026-09-17,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-09-17,Jhumka,Website,Pune,3,299,0.1,807.3
+2026-09-17,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-09-17,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-09-17,Saree,Offline,Pune,1,2499,0.0,2499.0
+2026-09-17,Potli bag,Offline,Kolkata,3,599,0.1,1617.3
+2026-09-17,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-09-17,Jhumka,WhatsApp,Jaipur,1,299,0.1,269.1
+2026-09-17,Dupatta,Offline,Bengaluru,1,449,0.0,449.0
+2026-09-17,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-09-17,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-09-17,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-09-17,Saree,Instagram,Bengaluru,1,2499,0.2,1999.2
+2026-09-17,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-09-18,Dupatta,WhatsApp,Pune,2,449,0.1,808.2
+2026-09-18,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-09-18,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-09-18,Potli bag,Instagram,Kolkata,1,599,0.1,539.1
+2026-09-18,Potli bag,Instagram,Pune,1,599,0.2,479.2
+2026-09-18,Kurti,Offline,Bengaluru,3,899,0.1,2427.3
+2026-09-18,Potli bag,WhatsApp,Jaipur,2,599,0.1,1078.2
+2026-09-18,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-09-18,Potli bag,Instagram,Jaipur,1,599,0.1,539.1
+2026-09-18,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-09-18,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-09-18,Jhumka,Instagram,Kolkata,2,299,0.1,538.2
+2026-09-18,Kurti,Website,Kolkata,2,899,0.1,1618.2
+2026-09-18,Potli bag,Instagram,Bengaluru,3,599,0.2,1437.6
+2026-09-19,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-09-19,Potli bag,WhatsApp,Lucknow,3,599,0.2,1437.6
+2026-09-19,Kurti,Website,Pune,1,899,0.1,809.1
+2026-09-19,Kurti,WhatsApp,Lucknow,3,899,0.0,2697.0
+2026-09-19,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-09-19,Dupatta,Offline,Jaipur,3,449,0.0,1347.0
+2026-09-19,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-09-19,Saree,Website,Pune,3,2499,0.1,6747.3
+2026-09-19,Kurti,Instagram,Pune,3,899,0.2,2157.6
+2026-09-19,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-09-19,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-09-19,Jhumka,Website,Kolkata,3,299,0.2,717.6
+2026-09-19,Potli bag,WhatsApp,Bengaluru,3,599,0.2,1437.6
+2026-09-19,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-09-19,Dupatta,Instagram,Lucknow,3,449,0.0,1347.0
+2026-09-19,Potli bag,Offline,Lucknow,2,599,0.0,1198.0
+2026-09-19,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-09-19,Dupatta,WhatsApp,Delhi,2,449,0.1,808.2
+2026-09-19,Saree,WhatsApp,Jaipur,2,2499,0.2,3998.4
+2026-09-19,Potli bag,Instagram,Kolkata,2,599,0.1,1078.2
+2026-09-19,Jhumka,WhatsApp,Bengaluru,1,299,0.2,239.2
+2026-09-20,Kurti,Offline,Bengaluru,3,899,0.1,2427.3
+2026-09-20,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-09-20,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-09-20,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-09-20,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-09-20,Jhumka,Website,Bengaluru,3,299,0.0,897.0
+2026-09-20,Dupatta,Website,Bengaluru,2,449,0.2,718.4
+2026-09-20,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-09-20,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-09-20,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-09-20,Dupatta,Offline,Delhi,2,449,0.0,898.0
+2026-09-20,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-09-20,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-09-20,Dupatta,Offline,Pune,1,449,0.0,449.0
+2026-09-21,Saree,Instagram,Pune,2,2499,0.0,4998.0
+2026-09-21,Jhumka,Instagram,Bengaluru,2,299,0.2,478.4
+2026-09-21,Jhumka,Instagram,Jaipur,1,299,0.0,299.0
+2026-09-21,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-09-21,Potli bag,Offline,Bengaluru,3,599,0.0,1797.0
+2026-09-21,Kurti,Instagram,Jaipur,2,899,0.0,1798.0
+2026-09-21,Dupatta,Offline,Bengaluru,1,449,0.0,449.0
+2026-09-21,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-09-21,Dupatta,Instagram,Bengaluru,1,449,0.2,359.2
+2026-09-21,Dupatta,Instagram,Lucknow,2,449,0.2,718.4
+2026-09-21,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-09-21,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-09-21,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-09-21,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-09-22,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-09-22,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-09-22,Saree,Offline,Jaipur,2,2499,0.2,3998.4
+2026-09-22,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-09-22,Saree,Instagram,Kolkata,3,2499,0.0,7497.0
+2026-09-22,Potli bag,Website,Kolkata,2,599,0.1,1078.2
+2026-09-22,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-09-22,Saree,Website,Pune,2,2499,0.1,4498.2
+2026-09-22,Dupatta,Instagram,Kolkata,3,449,0.2,1077.6
+2026-09-22,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-09-22,Jhumka,Instagram,Lucknow,1,299,0.2,239.2
+2026-09-22,Potli bag,Instagram,Delhi,2,599,0.2,958.4
+2026-09-22,Saree,WhatsApp,Pune,1,2499,0.2,1999.2
+2026-09-22,Kurti,Offline,Delhi,2,899,0.0,1798.0
+2026-09-22,Dupatta,WhatsApp,Kolkata,2,449,0.1,808.2
+2026-09-22,Jhumka,Instagram,Bengaluru,3,299,0.0,897.0
+2026-09-22,Dupatta,WhatsApp,Jaipur,3,449,0.2,1077.6
+2026-09-22,Jhumka,Offline,Delhi,2,299,0.1,538.2
+2026-09-22,Dupatta,Offline,Jaipur,3,449,0.0,1347.0
+2026-09-22,Potli bag,Website,Lucknow,1,599,0.2,479.2
+2026-09-22,Dupatta,WhatsApp,Lucknow,1,449,0.2,359.2
+2026-09-22,Potli bag,Instagram,Lucknow,1,599,0.2,479.2
+2026-09-23,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-09-23,Jhumka,Website,Kolkata,2,299,0.0,598.0
+2026-09-23,Dupatta,Website,Bengaluru,1,449,0.1,404.1
+2026-09-23,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-09-23,Saree,Website,Pune,2,2499,0.0,4998.0
+2026-09-23,Kurti,Website,Pune,3,899,0.2,2157.6
+2026-09-23,Kurti,Offline,Bengaluru,3,899,0.0,2697.0
+2026-09-23,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-09-23,Saree,Website,Pune,2,2499,0.0,4998.0
+2026-09-23,Kurti,Website,Lucknow,3,899,0.0,2697.0
+2026-09-23,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-09-23,Kurti,Website,Pune,2,899,0.0,1798.0
+2026-09-23,Kurti,Instagram,Lucknow,2,899,0.2,1438.4
+2026-09-23,Saree,Offline,Bengaluru,1,2499,0.2,1999.2
+2026-09-23,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-09-23,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-09-24,Jhumka,WhatsApp,Delhi,1,299,0.0,299.0
+2026-09-24,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-09-24,Kurti,Offline,Kolkata,2,899,0.0,1798.0
+2026-09-24,Jhumka,Website,Bengaluru,1,299,0.0,299.0
+2026-09-24,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-09-24,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-09-24,Potli bag,Instagram,Pune,2,599,0.1,1078.2
+2026-09-24,Potli bag,WhatsApp,Pune,1,599,0.0,599.0
+2026-09-24,Potli bag,WhatsApp,Pune,3,599,0.2,1437.6
+2026-09-24,Dupatta,WhatsApp,Delhi,3,449,0.2,1077.6
+2026-09-24,Potli bag,Instagram,Jaipur,3,599,0.2,1437.6
+2026-09-24,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-09-24,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-09-25,Jhumka,WhatsApp,Lucknow,1,299,0.1,269.1
+2026-09-25,Dupatta,WhatsApp,Lucknow,3,449,0.2,1077.6
+2026-09-25,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-09-25,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-09-25,Kurti,Website,Bengaluru,2,899,0.1,1618.2
+2026-09-25,Kurti,WhatsApp,Kolkata,1,899,0.2,719.2
+2026-09-25,Jhumka,Website,Pune,2,299,0.0,598.0
+2026-09-25,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-09-25,Saree,Website,Bengaluru,2,2499,0.0,4998.0
+2026-09-25,Saree,Website,Bengaluru,1,2499,0.1,2249.1
+2026-09-25,Potli bag,WhatsApp,Delhi,2,599,0.0,1198.0
+2026-09-25,Kurti,WhatsApp,Jaipur,1,899,0.2,719.2
+2026-09-26,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-09-26,Potli bag,Website,Kolkata,1,599,0.2,479.2
+2026-09-26,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-09-26,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-09-26,Jhumka,Offline,Delhi,1,299,0.1,269.1
+2026-09-26,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-09-26,Saree,Instagram,Jaipur,2,2499,0.2,3998.4
+2026-09-26,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-09-26,Dupatta,WhatsApp,Bengaluru,2,449,0.1,808.2
+2026-09-26,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-09-26,Saree,Website,Pune,2,2499,0.1,4498.2
+2026-09-26,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-09-26,Kurti,Instagram,Kolkata,1,899,0.2,719.2
+2026-09-26,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-09-26,Kurti,Instagram,Pune,2,899,0.1,1618.2
+2026-09-26,Dupatta,Offline,Bengaluru,1,449,0.2,359.2
+2026-09-26,Kurti,Instagram,Jaipur,2,899,0.1,1618.2
+2026-09-26,Jhumka,Offline,Lucknow,1,299,0.0,299.0
+2026-09-26,Potli bag,Offline,Lucknow,3,599,0.0,1797.0
+2026-09-26,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-09-26,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-09-26,Saree,Offline,Lucknow,2,2499,0.0,4998.0
+2026-09-26,Kurti,Instagram,Lucknow,2,899,0.2,1438.4
+2026-09-26,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-09-26,Jhumka,Instagram,Delhi,3,299,0.0,897.0
+2026-09-27,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-09-27,Kurti,Offline,Delhi,1,899,0.1,809.1
+2026-09-27,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-09-27,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-09-27,Saree,Website,Lucknow,2,2499,0.0,4998.0
+2026-09-27,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-09-27,Kurti,Website,Jaipur,1,899,0.2,719.2
+2026-09-27,Dupatta,Instagram,Bengaluru,3,449,0.2,1077.6
+2026-09-27,Kurti,Website,Pune,3,899,0.2,2157.6
+2026-09-27,Saree,Instagram,Delhi,2,2499,0.1,4498.2
+2026-09-27,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-09-27,Dupatta,Offline,Lucknow,2,449,0.1,808.2
+2026-09-27,Saree,Website,Delhi,1,2499,0.0,2499.0
+2026-09-27,Dupatta,Instagram,Delhi,2,449,0.1,808.2
+2026-09-27,Dupatta,Instagram,Jaipur,1,449,0.2,359.2
+2026-09-27,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-09-27,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-09-27,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-09-28,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-09-28,Kurti,WhatsApp,Pune,3,899,0.1,2427.3
+2026-09-28,Dupatta,Website,Kolkata,1,449,0.2,359.2
+2026-09-28,Jhumka,WhatsApp,Pune,1,299,0.0,299.0
+2026-09-28,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-09-28,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-09-28,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-09-28,Kurti,Offline,Jaipur,3,899,0.0,2697.0
+2026-09-28,Dupatta,Offline,Pune,1,449,0.0,449.0
+2026-09-28,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-09-28,Jhumka,WhatsApp,Delhi,1,299,0.2,239.2
+2026-09-29,Kurti,Website,Bengaluru,1,899,0.0,899.0
+2026-09-29,Jhumka,Instagram,Kolkata,3,299,0.2,717.6
+2026-09-29,Jhumka,WhatsApp,Pune,1,299,0.1,269.1
+2026-09-29,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-09-29,Dupatta,WhatsApp,Jaipur,1,449,0.1,404.1
+2026-09-29,Kurti,WhatsApp,Bengaluru,2,899,0.1,1618.2
+2026-09-29,Dupatta,Instagram,Kolkata,3,449,0.1,1212.3
+2026-09-29,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-09-30,Jhumka,Website,Jaipur,1,299,0.0,299.0
+2026-09-30,Saree,Website,Jaipur,2,2499,0.0,4998.0
+2026-09-30,Saree,Instagram,Lucknow,2,2499,0.2,3998.4
+2026-09-30,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-09-30,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-09-30,Saree,Website,Pune,3,2499,0.0,7497.0
+2026-09-30,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-09-30,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-09-30,Kurti,Website,Bengaluru,3,899,0.0,2697.0
+2026-09-30,Kurti,Website,Bengaluru,1,899,0.0,899.0
+2026-09-30,Potli bag,WhatsApp,Pune,1,599,0.1,539.1
+2026-09-30,Dupatta,Website,Pune,1,449,0.0,449.0
+2026-09-30,Dupatta,WhatsApp,Lucknow,1,449,0.0,449.0
+2026-09-30,Jhumka,Website,Bengaluru,3,299,0.0,897.0
+2026-09-30,Jhumka,WhatsApp,Pune,2,299,0.0,598.0
+2026-09-30,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-09-30,Dupatta,Website,Pune,3,449,0.1,1212.3
+2026-09-30,Dupatta,Instagram,Lucknow,3,449,0.2,1077.6
+2026-09-30,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-09-30,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-09-30,Dupatta,Instagram,Kolkata,3,449,0.1,1212.3
+2026-09-30,Potli bag,Instagram,Delhi,1,599,0.1,539.1
+2026-10-01,Saree,WhatsApp,Bengaluru,2,2499,0.1,4498.2
+2026-10-01,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-10-01,Dupatta,WhatsApp,Lucknow,3,449,0.1,1212.3
+2026-10-01,Saree,Instagram,Pune,3,2499,0.0,7497.0
+2026-10-01,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-10-01,Jhumka,WhatsApp,Bengaluru,1,299,0.0,299.0
+2026-10-01,Jhumka,WhatsApp,Jaipur,1,299,0.1,269.1
+2026-10-01,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-10-01,Jhumka,Offline,Bengaluru,3,299,0.0,897.0
+2026-10-01,Kurti,WhatsApp,Delhi,1,899,0.0,899.0
+2026-10-01,Kurti,Instagram,Bengaluru,1,899,0.2,719.2
+2026-10-01,Jhumka,Offline,Bengaluru,2,299,0.0,598.0
+2026-10-01,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-10-01,Saree,Offline,Delhi,2,2499,0.0,4998.0
+2026-10-01,Dupatta,Instagram,Delhi,3,449,0.1,1212.3
+2026-10-01,Potli bag,Website,Jaipur,2,599,0.0,1198.0
+2026-10-01,Dupatta,WhatsApp,Kolkata,1,449,0.2,359.2
+2026-10-01,Potli bag,Offline,Delhi,2,599,0.0,1198.0
+2026-10-01,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-10-01,Jhumka,Website,Kolkata,3,299,0.2,717.6
+2026-10-02,Dupatta,Offline,Pune,2,449,0.0,898.0
+2026-10-02,Kurti,WhatsApp,Pune,3,899,0.0,2697.0
+2026-10-02,Dupatta,Website,Bengaluru,3,449,0.0,1347.0
+2026-10-02,Kurti,Website,Jaipur,1,899,0.0,899.0
+2026-10-02,Dupatta,WhatsApp,Kolkata,3,449,0.0,1347.0
+2026-10-02,Saree,Website,Lucknow,2,2499,0.0,4998.0
+2026-10-02,Saree,Website,Kolkata,1,2499,0.0,2499.0
+2026-10-02,Potli bag,Website,Jaipur,3,599,0.0,1797.0
+2026-10-02,Dupatta,WhatsApp,Delhi,1,449,0.1,404.1
+2026-10-02,Saree,Offline,Bengaluru,1,2499,0.0,2499.0
+2026-10-02,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-10-02,Dupatta,WhatsApp,Bengaluru,3,449,0.2,1077.6
+2026-10-02,Saree,WhatsApp,Delhi,1,2499,0.1,2249.1
+2026-10-02,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-10-02,Kurti,Instagram,Bengaluru,1,899,0.1,809.1
+2026-10-02,Jhumka,Instagram,Kolkata,3,299,0.1,807.3
+2026-10-02,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-10-02,Potli bag,Instagram,Kolkata,3,599,0.1,1617.3
+2026-10-02,Dupatta,Instagram,Delhi,2,449,0.2,718.4
+2026-10-03,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-10-03,Jhumka,WhatsApp,Bengaluru,2,299,0.0,598.0
+2026-10-03,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-10-03,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-10-03,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-10-03,Jhumka,WhatsApp,Lucknow,3,299,0.1,807.3
+2026-10-03,Kurti,Offline,Jaipur,2,899,0.0,1798.0
+2026-10-03,Saree,Offline,Bengaluru,3,2499,0.0,7497.0
+2026-10-03,Jhumka,Website,Lucknow,3,299,0.0,897.0
+2026-10-03,Jhumka,WhatsApp,Bengaluru,1,299,0.1,269.1
+2026-10-03,Saree,Instagram,Lucknow,3,2499,0.1,6747.3
+2026-10-03,Kurti,WhatsApp,Lucknow,1,899,0.0,899.0
+2026-10-03,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-10-03,Saree,Instagram,Kolkata,1,2499,0.1,2249.1
+2026-10-03,Saree,WhatsApp,Delhi,2,2499,0.2,3998.4
+2026-10-03,Potli bag,WhatsApp,Pune,2,599,0.2,958.4
+2026-10-03,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-10-03,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-10-03,Saree,Instagram,Lucknow,3,2499,0.1,6747.3
+2026-10-03,Saree,WhatsApp,Delhi,1,2499,0.1,2249.1
+2026-10-03,Saree,WhatsApp,Kolkata,3,2499,0.1,6747.3
+2026-10-03,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-10-03,Dupatta,Instagram,Bengaluru,2,449,0.1,808.2
+2026-10-03,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-10-03,Saree,WhatsApp,Pune,1,2499,0.1,2249.1
+2026-10-03,Kurti,Website,Jaipur,2,899,0.1,1618.2
+2026-10-03,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-10-03,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-10-03,Jhumka,Offline,Kolkata,2,299,0.0,598.0
+2026-10-03,Saree,WhatsApp,Pune,3,2499,0.1,6747.3
+2026-10-04,Dupatta,Instagram,Bengaluru,3,449,0.0,1347.0
+2026-10-04,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-10-04,Kurti,Instagram,Delhi,3,899,0.0,2697.0
+2026-10-04,Saree,Instagram,Pune,2,2499,0.0,4998.0
+2026-10-04,Jhumka,Instagram,Jaipur,3,299,0.1,807.3
+2026-10-04,Dupatta,Website,Delhi,2,449,0.0,898.0
+2026-10-04,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-10-04,Dupatta,Instagram,Delhi,1,449,0.0,449.0
+2026-10-04,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-10-04,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-10-04,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-10-04,Dupatta,Instagram,Jaipur,2,449,0.2,718.4
+2026-10-04,Potli bag,Website,Kolkata,3,599,0.0,1797.0
+2026-10-04,Jhumka,Website,Jaipur,2,299,0.2,478.4
+2026-10-04,Kurti,WhatsApp,Jaipur,2,899,0.2,1438.4
+2026-10-04,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-10-04,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-10-04,Potli bag,Instagram,Kolkata,1,599,0.1,539.1
+2026-10-04,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-10-04,Dupatta,Offline,Lucknow,3,449,0.1,1212.3
+2026-10-04,Potli bag,WhatsApp,Delhi,1,599,0.1,539.1
+2026-10-04,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-10-04,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-04,Saree,WhatsApp,Lucknow,3,2499,0.1,6747.3
+2026-10-04,Jhumka,Instagram,Jaipur,2,299,0.2,478.4
+2026-10-04,Dupatta,Website,Jaipur,3,449,0.1,1212.3
+2026-10-04,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-10-04,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-05,Dupatta,Website,Jaipur,2,449,0.0,898.0
+2026-10-05,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-10-05,Dupatta,WhatsApp,Delhi,1,449,0.1,404.1
+2026-10-05,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-10-05,Potli bag,Website,Jaipur,1,599,0.0,599.0
+2026-10-05,Saree,WhatsApp,Bengaluru,2,2499,0.1,4498.2
+2026-10-05,Potli bag,Website,Jaipur,2,599,0.0,1198.0
+2026-10-05,Saree,Website,Jaipur,1,2499,0.0,2499.0
+2026-10-05,Kurti,Instagram,Pune,3,899,0.1,2427.3
+2026-10-05,Jhumka,Website,Lucknow,1,299,0.2,239.2
+2026-10-05,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-10-05,Potli bag,Instagram,Kolkata,2,599,0.1,1078.2
+2026-10-05,Potli bag,Instagram,Jaipur,1,599,0.2,479.2
+2026-10-05,Dupatta,WhatsApp,Delhi,2,449,0.2,718.4
+2026-10-05,Kurti,Offline,Bengaluru,3,899,0.0,2697.0
+2026-10-05,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-10-05,Jhumka,Instagram,Delhi,3,299,0.0,897.0
+2026-10-05,Jhumka,Website,Jaipur,1,299,0.0,299.0
+2026-10-05,Dupatta,Offline,Pune,2,449,0.0,898.0
+2026-10-05,Dupatta,Instagram,Delhi,1,449,0.1,404.1
+2026-10-05,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-10-05,Jhumka,Instagram,Jaipur,3,299,0.2,717.6
+2026-10-05,Jhumka,WhatsApp,Bengaluru,2,299,0.1,538.2
+2026-10-05,Dupatta,WhatsApp,Jaipur,3,449,0.0,1347.0
+2026-10-05,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-10-06,Potli bag,Website,Bengaluru,3,599,0.1,1617.3
+2026-10-06,Dupatta,WhatsApp,Bengaluru,1,449,0.2,359.2
+2026-10-06,Dupatta,Website,Lucknow,2,449,0.1,808.2
+2026-10-06,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-10-06,Saree,Instagram,Lucknow,1,2499,0.1,2249.1
+2026-10-06,Saree,WhatsApp,Jaipur,3,2499,0.1,6747.3
+2026-10-06,Jhumka,WhatsApp,Jaipur,1,299,0.1,269.1
+2026-10-06,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-10-06,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-10-06,Jhumka,WhatsApp,Kolkata,2,299,0.0,598.0
+2026-10-06,Dupatta,Offline,Jaipur,2,449,0.0,898.0
+2026-10-06,Kurti,Offline,Jaipur,2,899,0.2,1438.4
+2026-10-06,Potli bag,Website,Pune,2,599,0.1,1078.2
+2026-10-06,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-10-06,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-10-06,Saree,Instagram,Delhi,3,2499,0.1,6747.3
+2026-10-06,Saree,Instagram,Kolkata,3,2499,0.2,5997.6
+2026-10-06,Kurti,Website,Pune,3,899,0.1,2427.3
+2026-10-06,Potli bag,WhatsApp,Delhi,1,599,0.0,599.0
+2026-10-06,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-10-06,Saree,Website,Bengaluru,3,2499,0.1,6747.3
+2026-10-07,Kurti,Offline,Bengaluru,3,899,0.0,2697.0
+2026-10-07,Jhumka,Offline,Jaipur,3,299,0.1,807.3
+2026-10-07,Jhumka,Website,Pune,3,299,0.2,717.6
+2026-10-07,Kurti,Instagram,Bengaluru,2,899,0.2,1438.4
+2026-10-07,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-10-07,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-10-07,Jhumka,Website,Pune,3,299,0.2,717.6
+2026-10-07,Potli bag,Website,Delhi,1,599,0.0,599.0
+2026-10-07,Kurti,Website,Pune,3,899,0.0,2697.0
+2026-10-07,Dupatta,Offline,Pune,3,449,0.0,1347.0
+2026-10-07,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-10-07,Saree,Website,Jaipur,1,2499,0.0,2499.0
+2026-10-07,Kurti,WhatsApp,Jaipur,3,899,0.0,2697.0
+2026-10-07,Jhumka,Offline,Jaipur,1,299,0.0,299.0
+2026-10-07,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-10-07,Jhumka,Offline,Kolkata,2,299,0.2,478.4
+2026-10-07,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-10-07,Kurti,Instagram,Jaipur,2,899,0.2,1438.4
+2026-10-07,Jhumka,WhatsApp,Lucknow,3,299,0.1,807.3
+2026-10-07,Potli bag,Instagram,Bengaluru,1,599,0.0,599.0
+2026-10-07,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-10-08,Jhumka,WhatsApp,Bengaluru,3,299,0.0,897.0
+2026-10-08,Dupatta,Website,Lucknow,3,449,0.2,1077.6
+2026-10-08,Potli bag,Offline,Kolkata,3,599,0.1,1617.3
+2026-10-08,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-10-08,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-10-08,Kurti,Website,Pune,1,899,0.0,899.0
+2026-10-08,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-10-08,Dupatta,Offline,Delhi,2,449,0.2,718.4
+2026-10-08,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-10-08,Saree,WhatsApp,Bengaluru,2,2499,0.1,4498.2
+2026-10-08,Jhumka,Offline,Jaipur,1,299,0.2,239.2
+2026-10-08,Jhumka,WhatsApp,Jaipur,3,299,0.1,807.3
+2026-10-08,Saree,Instagram,Pune,1,2499,0.1,2249.1
+2026-10-08,Dupatta,Instagram,Bengaluru,3,449,0.2,1077.6
+2026-10-08,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-10-08,Jhumka,Offline,Jaipur,1,299,0.0,299.0
+2026-10-08,Dupatta,Instagram,Bengaluru,1,449,0.0,449.0
+2026-10-08,Potli bag,Offline,Lucknow,2,599,0.0,1198.0
+2026-10-08,Jhumka,Website,Jaipur,1,299,0.1,269.1
+2026-10-08,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-08,Jhumka,WhatsApp,Bengaluru,1,299,0.2,239.2
+2026-10-08,Saree,Instagram,Jaipur,2,2499,0.0,4998.0
+2026-10-08,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-10-08,Jhumka,Instagram,Pune,3,299,0.0,897.0
+2026-10-08,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-10-08,Potli bag,Instagram,Kolkata,2,599,0.2,958.4
+2026-10-08,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-10-08,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-10-08,Potli bag,Website,Bengaluru,2,599,0.2,958.4
+2026-10-08,Kurti,WhatsApp,Jaipur,3,899,0.2,2157.6
+2026-10-08,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-10-09,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-10-09,Jhumka,Instagram,Pune,2,299,0.1,538.2
+2026-10-09,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-10-09,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-10-09,Dupatta,Offline,Pune,3,449,0.0,1347.0
+2026-10-09,Saree,Instagram,Jaipur,3,2499,0.1,6747.3
+2026-10-09,Saree,WhatsApp,Lucknow,2,2499,0.1,4498.2
+2026-10-09,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-10-09,Dupatta,Offline,Kolkata,3,449,0.1,1212.3
+2026-10-09,Potli bag,Offline,Lucknow,1,599,0.0,599.0
+2026-10-09,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-10-09,Kurti,WhatsApp,Bengaluru,1,899,0.2,719.2
+2026-10-09,Saree,Instagram,Pune,2,2499,0.1,4498.2
+2026-10-09,Potli bag,WhatsApp,Kolkata,1,599,0.2,479.2
+2026-10-09,Saree,Offline,Lucknow,1,2499,0.0,2499.0
+2026-10-09,Potli bag,WhatsApp,Lucknow,2,599,0.1,1078.2
+2026-10-09,Dupatta,Website,Kolkata,3,449,0.0,1347.0
+2026-10-09,Kurti,Offline,Bengaluru,1,899,0.1,809.1
+2026-10-09,Kurti,Instagram,Pune,2,899,0.1,1618.2
+2026-10-10,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-10-10,Jhumka,Instagram,Jaipur,2,299,0.2,478.4
+2026-10-10,Jhumka,WhatsApp,Lucknow,2,299,0.1,538.2
+2026-10-10,Saree,Offline,Lucknow,3,2499,0.1,6747.3
+2026-10-10,Jhumka,Instagram,Pune,3,299,0.2,717.6
+2026-10-10,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-10-10,Kurti,Instagram,Kolkata,2,899,0.1,1618.2
+2026-10-10,Potli bag,Offline,Jaipur,3,599,0.0,1797.0
+2026-10-10,Saree,WhatsApp,Delhi,1,2499,0.0,2499.0
+2026-10-10,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-10-10,Kurti,Offline,Jaipur,1,899,0.0,899.0
+2026-10-10,Saree,Instagram,Bengaluru,2,2499,0.2,3998.4
+2026-10-10,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-10-10,Jhumka,Offline,Delhi,2,299,0.2,478.4
+2026-10-10,Kurti,Offline,Lucknow,3,899,0.0,2697.0
+2026-10-10,Saree,Instagram,Delhi,1,2499,0.0,2499.0
+2026-10-10,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-10-10,Kurti,Website,Kolkata,1,899,0.2,719.2
+2026-10-10,Kurti,Website,Jaipur,3,899,0.1,2427.3
+2026-10-10,Jhumka,WhatsApp,Kolkata,1,299,0.1,269.1
+2026-10-10,Dupatta,Website,Delhi,2,449,0.0,898.0
+2026-10-10,Dupatta,Offline,Pune,3,449,0.2,1077.6
+2026-10-10,Jhumka,Website,Jaipur,3,299,0.2,717.6
+2026-10-10,Potli bag,Instagram,Lucknow,2,599,0.2,958.4
+2026-10-10,Saree,Instagram,Kolkata,3,2499,0.1,6747.3
+2026-10-11,Potli bag,Instagram,Bengaluru,3,599,0.1,1617.3
+2026-10-11,Dupatta,Instagram,Pune,2,449,0.0,898.0
+2026-10-11,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-10-11,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-10-11,Jhumka,Offline,Kolkata,1,299,0.2,239.2
+2026-10-11,Kurti,WhatsApp,Delhi,2,899,0.1,1618.2
+2026-10-11,Jhumka,Instagram,Kolkata,2,299,0.2,478.4
+2026-10-11,Potli bag,Website,Lucknow,1,599,0.0,599.0
+2026-10-11,Kurti,WhatsApp,Jaipur,2,899,0.2,1438.4
+2026-10-11,Jhumka,WhatsApp,Delhi,3,299,0.2,717.6
+2026-10-11,Dupatta,Offline,Lucknow,3,449,0.1,1212.3
+2026-10-11,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-10-11,Kurti,WhatsApp,Jaipur,1,899,0.2,719.2
+2026-10-11,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-10-11,Jhumka,WhatsApp,Delhi,2,299,0.2,478.4
+2026-10-11,Potli bag,Website,Bengaluru,1,599,0.1,539.1
+2026-10-11,Jhumka,WhatsApp,Kolkata,1,299,0.2,239.2
+2026-10-11,Jhumka,Instagram,Lucknow,3,299,0.1,807.3
+2026-10-11,Kurti,WhatsApp,Delhi,2,899,0.2,1438.4
+2026-10-11,Kurti,Website,Kolkata,1,899,0.0,899.0
+2026-10-11,Saree,Website,Lucknow,1,2499,0.0,2499.0
+2026-10-11,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-11,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-10-11,Saree,Instagram,Delhi,2,2499,0.1,4498.2
+2026-10-12,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-10-12,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-10-12,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-10-12,Saree,Instagram,Bengaluru,2,2499,0.2,3998.4
+2026-10-12,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-10-12,Saree,Instagram,Pune,2,2499,0.0,4998.0
+2026-10-12,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-10-12,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-10-12,Saree,WhatsApp,Lucknow,2,2499,0.1,4498.2
+2026-10-12,Saree,Instagram,Jaipur,1,2499,0.2,1999.2
+2026-10-12,Saree,WhatsApp,Bengaluru,2,2499,0.0,4998.0
+2026-10-12,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-10-12,Kurti,Website,Lucknow,2,899,0.0,1798.0
+2026-10-12,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-12,Jhumka,Website,Bengaluru,3,299,0.2,717.6
+2026-10-12,Dupatta,WhatsApp,Jaipur,2,449,0.1,808.2
+2026-10-12,Dupatta,Website,Bengaluru,3,449,0.1,1212.3
+2026-10-13,Potli bag,WhatsApp,Kolkata,3,599,0.1,1617.3
+2026-10-13,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-10-13,Saree,Offline,Kolkata,1,2499,0.0,2499.0
+2026-10-13,Potli bag,Instagram,Lucknow,3,599,0.0,1797.0
+2026-10-13,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-10-13,Jhumka,WhatsApp,Lucknow,3,299,0.0,897.0
+2026-10-13,Dupatta,Offline,Jaipur,3,449,0.0,1347.0
+2026-10-13,Dupatta,Instagram,Delhi,2,449,0.0,898.0
+2026-10-13,Dupatta,Website,Pune,3,449,0.0,1347.0
+2026-10-13,Jhumka,Website,Lucknow,3,299,0.0,897.0
+2026-10-13,Dupatta,Website,Jaipur,3,449,0.0,1347.0
+2026-10-13,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-10-13,Potli bag,WhatsApp,Delhi,3,599,0.1,1617.3
+2026-10-13,Jhumka,Website,Delhi,3,299,0.0,897.0
+2026-10-13,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-10-13,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-10-13,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-10-14,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-10-14,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-10-14,Jhumka,Website,Lucknow,2,299,0.0,598.0
+2026-10-14,Potli bag,Instagram,Delhi,2,599,0.1,1078.2
+2026-10-14,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-10-14,Kurti,Instagram,Kolkata,1,899,0.2,719.2
+2026-10-14,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-10-14,Saree,Offline,Bengaluru,3,2499,0.1,6747.3
+2026-10-14,Jhumka,Website,Kolkata,1,299,0.0,299.0
+2026-10-14,Saree,WhatsApp,Bengaluru,1,2499,0.0,2499.0
+2026-10-14,Kurti,WhatsApp,Pune,3,899,0.2,2157.6
+2026-10-14,Kurti,WhatsApp,Bengaluru,1,899,0.0,899.0
+2026-10-14,Saree,Website,Delhi,1,2499,0.2,1999.2
+2026-10-14,Jhumka,WhatsApp,Pune,1,299,0.2,239.2
+2026-10-14,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-10-14,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-10-14,Saree,Offline,Pune,2,2499,0.1,4498.2
+2026-10-14,Dupatta,Offline,Pune,2,449,0.0,898.0
+2026-10-14,Saree,Instagram,Pune,1,2499,0.2,1999.2
+2026-10-14,Dupatta,Offline,Lucknow,2,449,0.0,898.0
+2026-10-14,Dupatta,Website,Delhi,2,449,0.0,898.0
+2026-10-14,Kurti,Website,Kolkata,3,899,0.0,2697.0
+2026-10-14,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-10-14,Potli bag,Website,Bengaluru,1,599,0.2,479.2
+2026-10-15,Saree,Instagram,Delhi,3,2499,0.1,6747.3
+2026-10-15,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-10-15,Potli bag,WhatsApp,Lucknow,3,599,0.2,1437.6
+2026-10-15,Potli bag,Website,Pune,3,599,0.2,1437.6
+2026-10-15,Jhumka,WhatsApp,Pune,2,299,0.0,598.0
+2026-10-15,Saree,Website,Kolkata,3,2499,0.0,7497.0
+2026-10-15,Potli bag,Website,Kolkata,1,599,0.0,599.0
+2026-10-15,Dupatta,Instagram,Bengaluru,1,449,0.2,359.2
+2026-10-15,Dupatta,Instagram,Bengaluru,1,449,0.2,359.2
+2026-10-15,Dupatta,Website,Lucknow,2,449,0.0,898.0
+2026-10-15,Potli bag,Website,Kolkata,2,599,0.2,958.4
+2026-10-15,Saree,Website,Bengaluru,2,2499,0.1,4498.2
+2026-10-15,Dupatta,WhatsApp,Bengaluru,2,449,0.0,898.0
+2026-10-15,Jhumka,WhatsApp,Jaipur,1,299,0.1,269.1
+2026-10-15,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-10-15,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-10-15,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-10-15,Dupatta,WhatsApp,Pune,2,449,0.2,718.4
+2026-10-16,Saree,WhatsApp,Pune,3,2499,0.2,5997.6
+2026-10-16,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-10-16,Jhumka,Offline,Jaipur,1,299,0.0,299.0
+2026-10-16,Dupatta,Instagram,Lucknow,2,449,0.1,808.2
+2026-10-16,Kurti,Instagram,Jaipur,3,899,0.1,2427.3
+2026-10-16,Saree,WhatsApp,Kolkata,1,2499,0.0,2499.0
+2026-10-16,Potli bag,WhatsApp,Delhi,1,599,0.1,539.1
+2026-10-16,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-10-16,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-10-16,Kurti,Instagram,Kolkata,1,899,0.1,809.1
+2026-10-16,Potli bag,Offline,Jaipur,1,599,0.2,479.2
+2026-10-16,Saree,WhatsApp,Bengaluru,2,2499,0.2,3998.4
+2026-10-16,Saree,WhatsApp,Delhi,2,2499,0.0,4998.0
+2026-10-16,Dupatta,Instagram,Lucknow,1,449,0.0,449.0
+2026-10-16,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-10-16,Kurti,Instagram,Bengaluru,1,899,0.0,899.0
+2026-10-16,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-10-16,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-10-16,Kurti,Offline,Jaipur,2,899,0.0,1798.0
+2026-10-16,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-10-16,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-10-17,Saree,Offline,Jaipur,1,2499,0.0,2499.0
+2026-10-17,Saree,WhatsApp,Delhi,3,2499,0.2,5997.6
+2026-10-17,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-10-17,Saree,Instagram,Delhi,3,2499,0.0,7497.0
+2026-10-17,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-10-17,Dupatta,WhatsApp,Kolkata,3,449,0.0,1347.0
+2026-10-17,Potli bag,Instagram,Kolkata,3,599,0.1,1617.3
+2026-10-17,Saree,Website,Kolkata,2,2499,0.1,4498.2
+2026-10-17,Dupatta,Website,Delhi,1,449,0.1,404.1
+2026-10-17,Jhumka,Website,Delhi,1,299,0.0,299.0
+2026-10-17,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-10-17,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-10-17,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-10-17,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-10-17,Dupatta,WhatsApp,Lucknow,1,449,0.1,404.1
+2026-10-17,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-10-17,Jhumka,Website,Lucknow,1,299,0.0,299.0
+2026-10-17,Dupatta,Website,Kolkata,1,449,0.0,449.0
+2026-10-17,Saree,Instagram,Delhi,1,2499,0.1,2249.1
+2026-10-17,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-10-17,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-10-17,Saree,Offline,Pune,3,2499,0.1,6747.3
+2026-10-17,Potli bag,Instagram,Lucknow,3,599,0.1,1617.3
+2026-10-17,Potli bag,WhatsApp,Jaipur,2,599,0.0,1198.0
+2026-10-17,Dupatta,Website,Lucknow,2,449,0.1,808.2
+2026-10-17,Kurti,Instagram,Pune,1,899,0.1,809.1
+2026-10-17,Kurti,Instagram,Pune,3,899,0.1,2427.3
+2026-10-18,Jhumka,WhatsApp,Pune,3,299,0.2,717.6
+2026-10-18,Jhumka,Website,Bengaluru,3,299,0.1,807.3
+2026-10-18,Jhumka,WhatsApp,Kolkata,2,299,0.0,598.0
+2026-10-18,Potli bag,Instagram,Kolkata,3,599,0.0,1797.0
+2026-10-18,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-10-18,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-10-18,Kurti,WhatsApp,Jaipur,1,899,0.2,719.2
+2026-10-18,Potli bag,Website,Lucknow,2,599,0.1,1078.2
+2026-10-18,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-10-18,Potli bag,WhatsApp,Bengaluru,1,599,0.0,599.0
+2026-10-18,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-10-18,Dupatta,Website,Kolkata,2,449,0.0,898.0
+2026-10-18,Kurti,Instagram,Pune,1,899,0.0,899.0
+2026-10-18,Dupatta,Website,Jaipur,3,449,0.0,1347.0
+2026-10-18,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-10-18,Dupatta,Website,Kolkata,1,449,0.2,359.2
+2026-10-18,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-10-18,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-10-18,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-10-18,Kurti,Instagram,Jaipur,1,899,0.2,719.2
+2026-10-18,Potli bag,WhatsApp,Kolkata,1,599,0.0,599.0
+2026-10-18,Jhumka,Offline,Kolkata,1,299,0.0,299.0
+2026-10-18,Potli bag,Offline,Kolkata,3,599,0.2,1437.6
+2026-10-18,Saree,Offline,Bengaluru,2,2499,0.0,4998.0
+2026-10-18,Saree,Website,Bengaluru,1,2499,0.0,2499.0
+2026-10-18,Saree,Instagram,Bengaluru,3,2499,0.1,6747.3
+2026-10-18,Kurti,Website,Pune,2,899,0.1,1618.2
+2026-10-18,Potli bag,Website,Bengaluru,3,599,0.0,1797.0
+2026-10-19,Jhumka,WhatsApp,Delhi,3,299,0.0,897.0
+2026-10-19,Dupatta,Instagram,Pune,1,449,0.0,449.0
+2026-10-19,Saree,Website,Pune,1,2499,0.0,2499.0
+2026-10-19,Potli bag,Instagram,Kolkata,1,599,0.0,599.0
+2026-10-19,Saree,WhatsApp,Delhi,1,2499,0.0,2499.0
+2026-10-19,Saree,Website,Pune,3,2499,0.0,7497.0
+2026-10-19,Saree,Offline,Kolkata,2,2499,0.1,4498.2
+2026-10-19,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-10-19,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-10-19,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-10-19,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-10-19,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-10-19,Dupatta,WhatsApp,Delhi,2,449,0.0,898.0
+2026-10-19,Dupatta,WhatsApp,Pune,2,449,0.0,898.0
+2026-10-19,Kurti,Website,Delhi,3,899,0.0,2697.0
+2026-10-19,Saree,Website,Jaipur,1,2499,0.2,1999.2
+2026-10-19,Kurti,WhatsApp,Jaipur,3,899,0.1,2427.3
+2026-10-19,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-10-19,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-10-19,Jhumka,Website,Pune,1,299,0.0,299.0
+2026-10-19,Dupatta,Website,Kolkata,1,449,0.0,449.0
+2026-10-19,Jhumka,Instagram,Jaipur,3,299,0.0,897.0
+2026-10-19,Dupatta,Instagram,Jaipur,1,449,0.0,449.0
+2026-10-19,Potli bag,Instagram,Jaipur,1,599,0.2,479.2
+2026-10-19,Dupatta,Instagram,Kolkata,3,449,0.0,1347.0
+2026-10-19,Saree,WhatsApp,Jaipur,3,2499,0.1,6747.3
+2026-10-19,Kurti,Instagram,Lucknow,3,899,0.2,2157.6
+2026-10-19,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-10-19,Jhumka,Instagram,Lucknow,2,299,0.1,538.2
+2026-10-19,Jhumka,Website,Jaipur,2,299,0.2,478.4
+2026-10-19,Potli bag,Website,Lucknow,3,599,0.0,1797.0
+2026-10-19,Saree,WhatsApp,Lucknow,1,2499,0.0,2499.0
+2026-10-19,Jhumka,Offline,Kolkata,2,299,0.0,598.0
+2026-10-20,Potli bag,Instagram,Jaipur,2,599,0.2,958.4
+2026-10-20,Dupatta,Offline,Kolkata,3,449,0.1,1212.3
+2026-10-20,Potli bag,WhatsApp,Delhi,1,599,0.2,479.2
+2026-10-20,Saree,Instagram,Delhi,3,2499,0.1,6747.3
+2026-10-20,Saree,Website,Kolkata,1,2499,0.0,2499.0
+2026-10-20,Dupatta,Website,Delhi,3,449,0.2,1077.6
+2026-10-20,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-10-20,Kurti,Offline,Jaipur,2,899,0.0,1798.0
+2026-10-20,Jhumka,WhatsApp,Lucknow,2,299,0.1,538.2
+2026-10-20,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-10-20,Dupatta,Website,Lucknow,1,449,0.2,359.2
+2026-10-20,Dupatta,Instagram,Lucknow,2,449,0.1,808.2
+2026-10-20,Potli bag,Offline,Jaipur,2,599,0.0,1198.0
+2026-10-20,Jhumka,Instagram,Bengaluru,2,299,0.0,598.0
+2026-10-20,Potli bag,Instagram,Delhi,3,599,0.2,1437.6
+2026-10-20,Jhumka,Offline,Delhi,1,299,0.0,299.0
+2026-10-20,Jhumka,WhatsApp,Pune,3,299,0.0,897.0
+2026-10-20,Potli bag,Website,Pune,2,599,0.0,1198.0
+2026-10-20,Dupatta,Instagram,Kolkata,2,449,0.2,718.4
+2026-10-20,Potli bag,Instagram,Delhi,3,599,0.0,1797.0
+2026-10-21,Potli bag,WhatsApp,Lucknow,1,599,0.1,539.1
+2026-10-21,Potli bag,WhatsApp,Bengaluru,3,599,0.0,1797.0
+2026-10-21,Kurti,Website,Pune,3,899,0.1,2427.3
+2026-10-21,Kurti,Instagram,Lucknow,1,899,0.0,899.0
+2026-10-21,Jhumka,Instagram,Kolkata,1,299,0.1,269.1
+2026-10-21,Potli bag,Instagram,Kolkata,2,599,0.2,958.4
+2026-10-21,Jhumka,Website,Kolkata,2,299,0.2,478.4
+2026-10-21,Kurti,Website,Bengaluru,1,899,0.0,899.0
+2026-10-21,Saree,Website,Lucknow,2,2499,0.0,4998.0
+2026-10-21,Potli bag,Offline,Jaipur,3,599,0.0,1797.0
+2026-10-21,Jhumka,Website,Lucknow,3,299,0.0,897.0
+2026-10-21,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-10-21,Potli bag,Instagram,Delhi,1,599,0.1,539.1
+2026-10-21,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-10-21,Saree,Offline,Jaipur,2,2499,0.0,4998.0
+2026-10-21,Saree,Instagram,Lucknow,2,2499,0.2,3998.4
+2026-10-21,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-10-21,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-10-21,Dupatta,Offline,Lucknow,1,449,0.0,449.0
+2026-10-21,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-10-21,Kurti,Website,Kolkata,3,899,0.0,2697.0
+2026-10-21,Saree,Offline,Pune,3,2499,0.0,7497.0
+2026-10-21,Kurti,Website,Bengaluru,1,899,0.0,899.0
+2026-10-21,Dupatta,Website,Lucknow,3,449,0.0,1347.0
+2026-10-21,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-10-21,Saree,Instagram,Kolkata,2,2499,0.1,4498.2
+2026-10-21,Jhumka,WhatsApp,Jaipur,1,299,0.0,299.0
+2026-10-21,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-22,Jhumka,WhatsApp,Lucknow,1,299,0.2,239.2
+2026-10-22,Dupatta,Instagram,Delhi,2,449,0.2,718.4
+2026-10-22,Potli bag,Instagram,Delhi,1,599,0.0,599.0
+2026-10-22,Dupatta,WhatsApp,Pune,3,449,0.0,1347.0
+2026-10-22,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-10-22,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-10-22,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-10-22,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-10-22,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-10-22,Potli bag,WhatsApp,Jaipur,3,599,0.0,1797.0
+2026-10-22,Saree,Offline,Lucknow,3,2499,0.2,5997.6
+2026-10-22,Kurti,WhatsApp,Lucknow,2,899,0.1,1618.2
+2026-10-22,Kurti,Instagram,Bengaluru,2,899,0.0,1798.0
+2026-10-22,Kurti,Website,Pune,2,899,0.2,1438.4
+2026-10-22,Jhumka,Website,Bengaluru,2,299,0.0,598.0
+2026-10-22,Potli bag,Offline,Bengaluru,2,599,0.0,1198.0
+2026-10-22,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-10-22,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-10-22,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-10-22,Dupatta,WhatsApp,Lucknow,3,449,0.0,1347.0
+2026-10-22,Jhumka,WhatsApp,Delhi,1,299,0.2,239.2
+2026-10-22,Kurti,WhatsApp,Jaipur,3,899,0.1,2427.3
+2026-10-22,Dupatta,Instagram,Kolkata,1,449,0.2,359.2
+2026-10-22,Saree,Instagram,Lucknow,2,2499,0.0,4998.0
+2026-10-22,Kurti,WhatsApp,Lucknow,2,899,0.0,1798.0
+2026-10-22,Kurti,Offline,Lucknow,3,899,0.1,2427.3
+2026-10-22,Jhumka,Instagram,Delhi,2,299,0.0,598.0
+2026-10-23,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-10-23,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-10-23,Dupatta,Instagram,Delhi,1,449,0.2,359.2
+2026-10-23,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-10-23,Saree,Offline,Bengaluru,1,2499,0.0,2499.0
+2026-10-23,Kurti,Website,Lucknow,2,899,0.0,1798.0
+2026-10-23,Saree,Instagram,Lucknow,1,2499,0.0,2499.0
+2026-10-23,Jhumka,Website,Bengaluru,2,299,0.1,538.2
+2026-10-23,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-10-23,Saree,WhatsApp,Pune,3,2499,0.0,7497.0
+2026-10-23,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-10-23,Jhumka,WhatsApp,Delhi,2,299,0.0,598.0
+2026-10-23,Saree,WhatsApp,Jaipur,1,2499,0.0,2499.0
+2026-10-23,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-10-23,Saree,Website,Delhi,2,2499,0.0,4998.0
+2026-10-23,Potli bag,Instagram,Lucknow,2,599,0.2,958.4
+2026-10-23,Saree,Instagram,Bengaluru,3,2499,0.0,7497.0
+2026-10-23,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-10-23,Jhumka,Offline,Bengaluru,3,299,0.2,717.6
+2026-10-23,Kurti,Offline,Delhi,3,899,0.1,2427.3
+2026-10-23,Potli bag,WhatsApp,Lucknow,1,599,0.0,599.0
+2026-10-24,Potli bag,WhatsApp,Kolkata,1,599,0.1,539.1
+2026-10-24,Jhumka,Instagram,Delhi,3,299,0.1,807.3
+2026-10-24,Saree,Website,Kolkata,2,2499,0.0,4998.0
+2026-10-24,Jhumka,WhatsApp,Jaipur,3,299,0.0,897.0
+2026-10-24,Dupatta,Instagram,Jaipur,1,449,0.1,404.1
+2026-10-24,Kurti,Instagram,Lucknow,2,899,0.0,1798.0
+2026-10-24,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-10-24,Kurti,Website,Kolkata,2,899,0.0,1798.0
+2026-10-24,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-10-24,Saree,WhatsApp,Lucknow,3,2499,0.0,7497.0
+2026-10-24,Dupatta,Website,Delhi,3,449,0.0,1347.0
+2026-10-24,Saree,Website,Delhi,3,2499,0.0,7497.0
+2026-10-24,Saree,Offline,Bengaluru,2,2499,0.1,4498.2
+2026-10-24,Saree,Website,Delhi,3,2499,0.0,7497.0
+2026-10-24,Potli bag,WhatsApp,Pune,3,599,0.0,1797.0
+2026-10-24,Kurti,Instagram,Bengaluru,1,899,0.1,809.1
+2026-10-24,Dupatta,Offline,Bengaluru,1,449,0.2,359.2
+2026-10-24,Saree,Instagram,Lucknow,3,2499,0.0,7497.0
+2026-10-24,Kurti,Website,Delhi,2,899,0.0,1798.0
+2026-10-24,Kurti,Instagram,Lucknow,2,899,0.2,1438.4
+2026-10-24,Potli bag,Website,Bengaluru,2,599,0.0,1198.0
+2026-10-24,Kurti,Instagram,Delhi,1,899,0.0,899.0
+2026-10-24,Jhumka,WhatsApp,Bengaluru,1,299,0.1,269.1
+2026-10-24,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-10-24,Kurti,Instagram,Pune,1,899,0.2,719.2
+2026-10-24,Jhumka,Offline,Bengaluru,2,299,0.0,598.0
+2026-10-24,Dupatta,Instagram,Pune,2,449,0.2,718.4
+2026-10-24,Jhumka,WhatsApp,Jaipur,2,299,0.0,598.0
+2026-10-24,Jhumka,Website,Bengaluru,1,299,0.0,299.0
+2026-10-24,Potli bag,Instagram,Kolkata,2,599,0.2,958.4
+2026-10-24,Kurti,Instagram,Jaipur,3,899,0.0,2697.0
+2026-10-25,Jhumka,Instagram,Pune,2,299,0.0,598.0
+2026-10-25,Dupatta,WhatsApp,Pune,1,449,0.2,359.2
+2026-10-25,Dupatta,WhatsApp,Lucknow,1,449,0.2,359.2
+2026-10-25,Saree,WhatsApp,Kolkata,2,2499,0.0,4998.0
+2026-10-25,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-10-25,Kurti,Website,Delhi,1,899,0.2,719.2
+2026-10-25,Saree,WhatsApp,Pune,1,2499,0.1,2249.1
+2026-10-25,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-10-25,Jhumka,WhatsApp,Kolkata,1,299,0.0,299.0
+2026-10-25,Jhumka,WhatsApp,Kolkata,2,299,0.1,538.2
+2026-10-25,Kurti,WhatsApp,Bengaluru,1,899,0.1,809.1
+2026-10-25,Dupatta,Instagram,Delhi,2,449,0.1,808.2
+2026-10-25,Kurti,WhatsApp,Pune,2,899,0.0,1798.0
+2026-10-25,Kurti,Website,Jaipur,3,899,0.0,2697.0
+2026-10-25,Dupatta,Website,Kolkata,3,449,0.2,1077.6
+2026-10-25,Saree,WhatsApp,Delhi,3,2499,0.2,5997.6
+2026-10-25,Kurti,Instagram,Pune,3,899,0.0,2697.0
+2026-10-25,Dupatta,Instagram,Jaipur,3,449,0.0,1347.0
+2026-10-25,Kurti,WhatsApp,Lucknow,1,899,0.2,719.2
+2026-10-25,Potli bag,WhatsApp,Bengaluru,2,599,0.0,1198.0
+2026-10-25,Jhumka,Website,Bengaluru,2,299,0.2,478.4
+2026-10-25,Saree,WhatsApp,Delhi,1,2499,0.2,1999.2
+2026-10-25,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-10-25,Kurti,WhatsApp,Kolkata,3,899,0.0,2697.0
+2026-10-25,Potli bag,WhatsApp,Kolkata,3,599,0.0,1797.0
+2026-10-25,Kurti,WhatsApp,Pune,2,899,0.1,1618.2
+2026-10-25,Jhumka,WhatsApp,Kolkata,2,299,0.1,538.2
+2026-10-25,Jhumka,Website,Delhi,2,299,0.1,538.2
+2026-10-25,Potli bag,Instagram,Lucknow,2,599,0.1,1078.2
+2026-10-26,Potli bag,WhatsApp,Kolkata,2,599,0.0,1198.0
+2026-10-26,Dupatta,Instagram,Delhi,3,449,0.0,1347.0
+2026-10-26,Saree,WhatsApp,Jaipur,2,2499,0.0,4998.0
+2026-10-26,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-10-26,Saree,WhatsApp,Bengaluru,3,2499,0.0,7497.0
+2026-10-26,Jhumka,WhatsApp,Pune,1,299,0.1,269.1
+2026-10-26,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-10-26,Dupatta,Instagram,Pune,3,449,0.0,1347.0
+2026-10-26,Kurti,Website,Bengaluru,2,899,0.0,1798.0
+2026-10-26,Saree,Instagram,Kolkata,1,2499,0.0,2499.0
+2026-10-26,Kurti,Instagram,Pune,2,899,0.1,1618.2
+2026-10-26,Saree,Instagram,Bengaluru,2,2499,0.0,4998.0
+2026-10-26,Jhumka,WhatsApp,Kolkata,3,299,0.0,897.0
+2026-10-26,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-10-26,Jhumka,Website,Bengaluru,2,299,0.0,598.0
+2026-10-26,Saree,Instagram,Jaipur,1,2499,0.0,2499.0
+2026-10-26,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-10-26,Potli bag,Instagram,Pune,2,599,0.2,958.4
+2026-10-26,Dupatta,Instagram,Delhi,3,449,0.2,1077.6
+2026-10-26,Jhumka,Offline,Lucknow,1,299,0.2,239.2
+2026-10-26,Jhumka,Instagram,Kolkata,2,299,0.2,478.4
+2026-10-26,Potli bag,Instagram,Bengaluru,3,599,0.2,1437.6
+2026-10-26,Potli bag,Website,Pune,3,599,0.0,1797.0
+2026-10-26,Potli bag,WhatsApp,Pune,1,599,0.2,479.2
+2026-10-26,Kurti,Instagram,Bengaluru,3,899,0.1,2427.3
+2026-10-26,Dupatta,WhatsApp,Bengaluru,3,449,0.0,1347.0
+2026-10-26,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-10-26,Jhumka,Instagram,Bengaluru,1,299,0.1,269.1
+2026-10-27,Dupatta,WhatsApp,Jaipur,2,449,0.0,898.0
+2026-10-27,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-10-27,Dupatta,WhatsApp,Delhi,3,449,0.0,1347.0
+2026-10-27,Saree,Website,Jaipur,2,2499,0.0,4998.0
+2026-10-27,Dupatta,Website,Bengaluru,1,449,0.0,449.0
+2026-10-27,Dupatta,Instagram,Jaipur,2,449,0.0,898.0
+2026-10-27,Potli bag,Instagram,Pune,3,599,0.2,1437.6
+2026-10-27,Potli bag,WhatsApp,Delhi,2,599,0.2,958.4
+2026-10-27,Kurti,Website,Delhi,2,899,0.0,1798.0
+2026-10-27,Kurti,WhatsApp,Pune,1,899,0.0,899.0
+2026-10-27,Dupatta,Offline,Lucknow,3,449,0.0,1347.0
+2026-10-27,Potli bag,Instagram,Bengaluru,2,599,0.0,1198.0
+2026-10-27,Saree,Offline,Delhi,3,2499,0.0,7497.0
+2026-10-27,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-10-27,Kurti,WhatsApp,Jaipur,2,899,0.0,1798.0
+2026-10-27,Potli bag,Instagram,Pune,3,599,0.0,1797.0
+2026-10-27,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-10-27,Kurti,Instagram,Delhi,1,899,0.1,809.1
+2026-10-27,Jhumka,WhatsApp,Pune,2,299,0.0,598.0
+2026-10-27,Dupatta,Instagram,Kolkata,3,449,0.1,1212.3
+2026-10-27,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-27,Potli bag,Website,Jaipur,2,599,0.0,1198.0
+2026-10-27,Saree,Instagram,Pune,1,2499,0.0,2499.0
+2026-10-27,Kurti,Website,Lucknow,2,899,0.0,1798.0
+2026-10-27,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-10-28,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-10-28,Potli bag,Website,Kolkata,1,599,0.0,599.0
+2026-10-28,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-10-28,Potli bag,Website,Delhi,3,599,0.2,1437.6
+2026-10-28,Dupatta,WhatsApp,Bengaluru,1,449,0.0,449.0
+2026-10-28,Potli bag,Instagram,Lucknow,2,599,0.0,1198.0
+2026-10-28,Potli bag,WhatsApp,Kolkata,2,599,0.1,1078.2
+2026-10-28,Kurti,WhatsApp,Jaipur,2,899,0.1,1618.2
+2026-10-28,Potli bag,Offline,Jaipur,2,599,0.2,958.4
+2026-10-28,Dupatta,Offline,Pune,2,449,0.0,898.0
+2026-10-28,Saree,WhatsApp,Bengaluru,2,2499,0.1,4498.2
+2026-10-28,Potli bag,Instagram,Jaipur,2,599,0.0,1198.0
+2026-10-28,Kurti,Instagram,Delhi,2,899,0.0,1798.0
+2026-10-28,Kurti,Instagram,Kolkata,2,899,0.2,1438.4
+2026-10-28,Jhumka,Website,Bengaluru,3,299,0.0,897.0
+2026-10-28,Jhumka,Instagram,Kolkata,3,299,0.0,897.0
+2026-10-28,Kurti,WhatsApp,Bengaluru,2,899,0.0,1798.0
+2026-10-28,Potli bag,Instagram,Bengaluru,3,599,0.1,1617.3
+2026-10-28,Jhumka,Instagram,Pune,1,299,0.0,299.0
+2026-10-28,Potli bag,WhatsApp,Kolkata,2,599,0.1,1078.2
+2026-10-28,Jhumka,Instagram,Kolkata,1,299,0.2,239.2
+2026-10-28,Potli bag,Website,Delhi,3,599,0.2,1437.6
+2026-10-28,Jhumka,WhatsApp,Lucknow,2,299,0.0,598.0
+2026-10-28,Saree,Website,Lucknow,1,2499,0.0,2499.0
+2026-10-28,Potli bag,WhatsApp,Delhi,3,599,0.0,1797.0
+2026-10-29,Jhumka,Instagram,Lucknow,3,299,0.0,897.0
+2026-10-29,Saree,Website,Jaipur,3,2499,0.0,7497.0
+2026-10-29,Dupatta,Offline,Kolkata,1,449,0.2,359.2
+2026-10-29,Potli bag,Website,Bengaluru,3,599,0.0,1797.0
+2026-10-29,Dupatta,Offline,Bengaluru,1,449,0.0,449.0
+2026-10-29,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-10-29,Kurti,WhatsApp,Kolkata,2,899,0.0,1798.0
+2026-10-29,Kurti,Instagram,Pune,2,899,0.0,1798.0
+2026-10-29,Potli bag,Instagram,Jaipur,3,599,0.2,1437.6
+2026-10-29,Potli bag,Website,Bengaluru,1,599,0.0,599.0
+2026-10-29,Dupatta,WhatsApp,Delhi,1,449,0.0,449.0
+2026-10-29,Kurti,Instagram,Kolkata,1,899,0.0,899.0
+2026-10-29,Potli bag,WhatsApp,Lucknow,2,599,0.0,1198.0
+2026-10-29,Saree,Instagram,Delhi,2,2499,0.0,4998.0
+2026-10-29,Saree,Offline,Delhi,1,2499,0.1,2249.1
+2026-10-29,Kurti,Instagram,Jaipur,1,899,0.0,899.0
+2026-10-29,Dupatta,Website,Bengaluru,3,449,0.0,1347.0
+2026-10-29,Dupatta,WhatsApp,Kolkata,2,449,0.0,898.0
+2026-10-29,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-29,Jhumka,Instagram,Jaipur,2,299,0.0,598.0
+2026-10-29,Jhumka,Website,Delhi,3,299,0.0,897.0
+2026-10-30,Potli bag,Instagram,Jaipur,3,599,0.0,1797.0
+2026-10-30,Saree,Instagram,Bengaluru,2,2499,0.1,4498.2
+2026-10-30,Kurti,Instagram,Bengaluru,2,899,0.1,1618.2
+2026-10-30,Kurti,Instagram,Pune,1,899,0.1,809.1
+2026-10-30,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-30,Saree,WhatsApp,Lucknow,2,2499,0.0,4998.0
+2026-10-30,Potli bag,Website,Kolkata,2,599,0.1,1078.2
+2026-10-30,Saree,Website,Bengaluru,2,2499,0.2,3998.4
+2026-10-30,Jhumka,Website,Bengaluru,1,299,0.0,299.0
+2026-10-30,Saree,WhatsApp,Delhi,1,2499,0.2,1999.2
+2026-10-30,Jhumka,WhatsApp,Kolkata,2,299,0.2,478.4
+2026-10-30,Potli bag,Website,Jaipur,1,599,0.1,539.1
+2026-10-30,Dupatta,Instagram,Kolkata,1,449,0.0,449.0
+2026-10-30,Potli bag,Instagram,Pune,2,599,0.0,1198.0
+2026-10-30,Potli bag,Instagram,Kolkata,2,599,0.0,1198.0
+2026-10-30,Potli bag,Website,Kolkata,2,599,0.0,1198.0
+2026-10-30,Saree,Instagram,Kolkata,2,2499,0.0,4998.0
+2026-10-30,Dupatta,WhatsApp,Pune,1,449,0.0,449.0
+2026-10-30,Saree,WhatsApp,Jaipur,3,2499,0.0,7497.0
+2026-10-30,Saree,WhatsApp,Jaipur,2,2499,0.1,4498.2
+2026-10-31,Dupatta,Offline,Jaipur,2,449,0.0,898.0
+2026-10-31,Jhumka,Instagram,Delhi,1,299,0.2,239.2
+2026-10-31,Potli bag,WhatsApp,Jaipur,1,599,0.0,599.0
+2026-10-31,Potli bag,Instagram,Jaipur,1,599,0.0,599.0
+2026-10-31,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-10-31,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-31,Kurti,Instagram,Kolkata,3,899,0.0,2697.0
+2026-10-31,Kurti,Instagram,Kolkata,2,899,0.0,1798.0
+2026-10-31,Dupatta,Instagram,Pune,2,449,0.1,808.2
+2026-10-31,Saree,Instagram,Jaipur,3,2499,0.0,7497.0
+2026-10-31,Jhumka,Website,Lucknow,1,299,0.0,299.0
+2026-10-31,Jhumka,WhatsApp,Bengaluru,3,299,0.2,717.6
+2026-10-31,Jhumka,Instagram,Lucknow,2,299,0.0,598.0
+2026-10-31,Potli bag,WhatsApp,Lucknow,3,599,0.0,1797.0
+2026-10-31,Jhumka,Instagram,Kolkata,2,299,0.0,598.0
+2026-10-31,Jhumka,Website,Kolkata,3,299,0.2,717.6
+2026-10-31,Dupatta,WhatsApp,Jaipur,1,449,0.0,449.0
+2026-10-31,Kurti,WhatsApp,Bengaluru,3,899,0.0,2697.0
+2026-10-31,Potli bag,WhatsApp,Jaipur,1,599,0.2,479.2
+2026-10-31,Dupatta,Website,Pune,1,449,0.0,449.0
+2026-10-31,Dupatta,Instagram,Lucknow,2,449,0.0,898.0
+2026-10-31,Jhumka,Instagram,Kolkata,1,299,0.0,299.0
+2026-10-31,Jhumka,Instagram,Delhi,1,299,0.0,299.0
+2026-10-31,Potli bag,WhatsApp,Pune,2,599,0.0,1198.0
+2026-10-31,Kurti,WhatsApp,Delhi,2,899,0.0,1798.0
+2026-10-31,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
+2026-10-31,Potli bag,Website,Delhi,2,599,0.0,1198.0
+2026-10-31,Saree,Instagram,Bengaluru,1,2499,0.0,2499.0
